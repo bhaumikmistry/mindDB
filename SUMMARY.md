@@ -1,5 +1,5 @@
 # Table of contents
 
-* [mindDB](README.md)
+* [mindDB](mindDB.md)
 * [c++](c++/c++.md)
 * [About Me](about.md)
