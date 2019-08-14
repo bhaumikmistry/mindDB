@@ -1,3 +1,3 @@
 ## code
 
-+ [If-else Vs Ternary](IfelseVsTernary.md)
+* [If-else Vs Ternary](IfelseVsTernary.md)

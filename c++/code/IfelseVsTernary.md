@@ -1,6 +1,6 @@
 ## If-else Vs Ternary
 
-If else vs ternary comparison; the actual code looks very simple but could be lengthy for if-else and sometimes complicated and short for ternary code.
+If else vs ternary comparison; the actual code looks very simple but could be lengthy for if-else and sometimes complicated and short for ternary code. 
 
 Example
 <script src="https://gist.github.com/bhaumikmistry/cffd44f80b7beca4860cb1876adb8e33.js?file=if_else.cpp"></script>
