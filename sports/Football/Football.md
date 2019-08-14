@@ -4,7 +4,7 @@ This section displays my enthusiasm for this sports, who I follow and the import
 
 Football is widely played sports in the world, closely watched and supported. I support Arsenal team, I also support few other individual player such as Pablo Dybala, Aaron Ramsey.
 
-+ EPL
++ [EPL](epl.md)
 + Arsenal
 + Pablo Dybala
 + Aaron Ramsey
