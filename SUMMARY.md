@@ -1,4 +1,5 @@
 # Table of contents
 
-* [mindDV](README.md)
-* [c++](c++/README.md)
+* [mindDB](README.md)
+* [c++](c++/c++.md)
+* [About Me](about.md)
