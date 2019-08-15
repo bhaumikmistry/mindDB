@@ -7,7 +7,7 @@
 * [PaaS](PaaS/PaaS.md)
     * [Heroku](PaaS/Heroku.md)
 * [Sports](sports/sports.md)
-    * [Football(soccer)](sports/football/football.md)
-        * [EPL](sports/football/epl.md)
+    * [Football(soccer)](sports/Football/Football.md)
+        * [EPL](sports/Football/epl.md)
 * [About Me](aboutme/about.md)
 
