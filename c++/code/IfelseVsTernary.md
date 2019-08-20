@@ -9,7 +9,7 @@ Example
 
 <script src="https://gist.github.com/bhaumikmistry/cffd44f80b7beca4860cb1876adb8e33.js"></script>
 
-https://gist.githubusercontent.com/bhaumikmistry/cffd44f80b7beca4860cb1876adb8e33/raw/3f708ce9cd465bfaeae8860e30ee4f6399502f65/if_else.cpp
+https://gist.github.com/bhaumikmistry/cffd44f80b7beca4860cb1876adb8e33
 
 https://gist.github.com/bhaumikmistry/cffd44f80b7beca4860cb1876adb8e33/#file-if_else-cpp
 
