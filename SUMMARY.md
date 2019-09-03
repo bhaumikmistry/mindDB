@@ -11,5 +11,11 @@
 * [Sports](sports/sports.md)
     * [Football(soccer)](sports/Football/Football.md)
         * [EPL](sports/Football/epl.md)
+* [Science](science/science.md)
+    * [Physics](science/physics/physics.md)
+        * [Aerodynamics](science/physics/aerodynamics.md)
+* [General Knowledge](gk/gk.md)
+    * [Travel](gk/travel/travel.md)
+        * [Truck Aerodynamics](gk/travel/truck_aerodynamics.md)
 * [About Me](aboutme/about.md)
 
