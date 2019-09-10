@@ -1,11 +1,12 @@
 # Table of contents
 
-* [mindDB](mindDB/mindDB.md)
-* [software](software.md)
+* [MindDB](mindDB/mindDB.md)
+* [Software](software.md)
     * [c++](software/c++/c++.md)
     	* [code](software/c++/code/code.md)
             * [If-else Vs Ternary](software/c++/code/IfelseVsTernary.md)
     * [Android](android/android.md)
+        * [icons](android/icons.md)
         * [Snippets](android/snippets.md)
     * [PaaS](software/PaaS/PaaS.md)
         * [Heroku](software/PaaS/Heroku.md)
