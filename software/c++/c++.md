@@ -4,3 +4,4 @@
 #### Index
 * [code](code/code.md)
     * [If-else Vs Ternary](code/IfelseVsTernary.md)
+    * [Best Fitting Plane](code/BestFittingPlane.md)
