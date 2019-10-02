@@ -5,6 +5,7 @@
     * [c++](software/c++/c++.md)
     	* [code](software/c++/code/code.md)
             * [If-else Vs Ternary](software/c++/code/IfelseVsTernary.md)
+    * [chrome extension](software/chromeextension/chromeextension.md)
     * [Android](android/android.md)
         * [icons](android/icons.md)
         * [Snippets](android/snippets.md)
