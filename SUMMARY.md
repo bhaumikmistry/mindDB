@@ -6,17 +6,10 @@
     	* [code](software/c++/code/code.md)
             * [If-else Vs Ternary](software/c++/code/IfelseVsTernary.md)
             * [Best Fitting Plane](software/c++/code/BestFittingPlane.md)
-<<<<<<< HEAD
     * [chrome extension](software/chromeextension/chromeextension.md)
     * [Android](software/android/android.md)
         * [icons](software/android/icons.md)
         * [Snippets](software/android/snippets.md)
-=======
-            
-    * [Android](android/android.md)
-        * [icons](android/icons.md)
-        * [Snippets](android/snippets.md)
->>>>>>> a280476e8d50e01a564ec831dc8208ddec0c39f9
     * [PaaS](software/PaaS/PaaS.md)
         * [Heroku](software/PaaS/Heroku.md)
     * [docker](software/docker/docker.md)
@@ -37,5 +30,7 @@
 * [Mac](mac/mac.md)
     * [OS X version from command line](mac/osx-version-cli.md)
     * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
+* [art](art/art.md)
+* [Drawingbook](drawingbook/drawingbook.md)
 * [About Me](aboutme/aboutme.md)
 
