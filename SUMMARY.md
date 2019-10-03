@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [MindDB](minddb.md)
+* [MindDB](minddb/README.md)
 * [Software](software/README.md)
   * [c++](software/c++/README.md)
     * [code](software/c++/code/README.md)
@@ -13,7 +13,7 @@
     * [Snippets](software/android/snippets.md)
   * [PaaS](software/paas/README.md)
     * [Heroku](software/paas/heroku.md)
-  * [docker](software/docker.md)
+    * [docker](software/paas/docker.md)
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)
@@ -31,7 +31,7 @@
 * [Mac](mac/README.md)
   * [OS X version from command line](mac/osx-version-cli.md)
   * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
-* [art](art.md)
-* [Drawingbook](drawingbook.md)
-* [About Me](aboutme.md)
+* [art](art/README.md)
+* [Drawingbook](drawingbook/README.md)
+* [About Me](aboutme/README.md)
 

@@ -20,7 +20,7 @@ General Knowledge is information that has been accumulated over time through var
 
 ## Index
 
-* [Travel](travel/)
+* [Travel](travel/README.md)
   * [Truck Aerodynamics](travel/truck_aerodynamics.md)
   * [Sunroof vs Moonroof](travel/sunroofvsmoonroof.md)
 

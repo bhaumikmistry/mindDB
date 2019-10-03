@@ -4,7 +4,7 @@
 
 ## Index
 
-* [code](code/)
+* [code](code/README.md)
   * [If-else Vs Ternary](code/ifelsevsternary.md)
-  * [Best Fitting Plane](../chromeextension.md)
+  * [Best Fitting Plane](code/bestfittingplane.md)
 
