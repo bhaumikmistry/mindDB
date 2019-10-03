@@ -32,7 +32,6 @@
   * [OS X version from command line](mac/osx-version-cli.md)
   * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
 * [art](art.md)
-* [Drawingbook](drawingbook/README.md)
-  * [test\_1](drawingbook/test_1.md)
+* [Drawingbook](drawingbook.md)
 * [About Me](aboutme.md)
 
