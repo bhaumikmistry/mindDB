@@ -1,10 +1,12 @@
-# OSX version from command line
+# OS X version from command line
 
-```
+```text
 xxx-macbookpro:~ name$ system_profiler
 ```
+
 Response:-
-```
+
+```text
 system_profiler SPSoftwareDataType
 Software:
 
@@ -21,18 +23,19 @@ Software:
       Time since boot: X days X:XX
 ```
 
----
-```
+```text
 xxx-macbookpro:~ name$ sw_vers
-ProductName:	Mac OS X
-ProductVersion:	10.14.6
-BuildVersion:	18G87
+ProductName:    Mac OS X
+ProductVersion:    10.14.6
+BuildVersion:    18G87
 ```
----
-```
+
+```text
 xxx-macbookpro:~ name$ defaults read loginwindow SystemVersionStampAsString
 10.14.6
 ```
 
 ## Links
+
 [Apple docs](https://support.apple.com/en-us/HT203001)
+
