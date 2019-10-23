@@ -1,6 +1,6 @@
 # Leep-code Problems
 
-> The purpose of this list and solution is not for use instead of leet-code, it should be used for revision and quick look.
+> The purpose of this list and solution is not for use in place of leet-code, it should be used for revision and quick look.
 
 * [Tow sum](two-sum.md)
 * [Add Two Numbers](add-two-numbers.md)
