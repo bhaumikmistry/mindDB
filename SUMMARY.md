@@ -14,8 +14,6 @@
   * [PaaS](software/paas/README.md)
     * [Heroku](software/paas/heroku.md)
     * [docker](software/paas/docker.md)
-  * [Leet-code](software/leet-code/README.md)
-    * [Problems](software/leet-code/problems/README.md)
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)
