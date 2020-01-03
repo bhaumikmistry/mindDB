@@ -32,7 +32,7 @@
     * [anki-augmenting-cognition](gk/memory/anki-augmentation-cogition.md)
 * [Mac](mac/README.md)
   * [OS X version from command line](mac/osx-version-cli.md)
-  * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
+  * [System setup](https://github.com/bhaumikmistry/mac-system-setup)
 * [Art](art/README.md)
 * [Drawingbook](drawingbook/README.md)
   * [A to Z starbucks cup](drawingbook/atozstarbucks/atozstarbuck.md)
