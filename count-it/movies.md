@@ -7,10 +7,10 @@ OS - Online Stream;
 MT - Movie Theater;
 FL - Flight;
 ```
-```
+---
 Average movie length 110 mins
-Total hours = 8*110 = 880/60 = ```14 hr 36 min```
-```
+Total hours = 8*110 = 880/60 
+> ```14 hr 36 min```
 
 1. Bad Blood ```[AP]``` [[Link]](https://www.imdb.com/title/tt1773294/) ```[4/5]``` ```[11/2019]```
 2. The Pursuit of Happiness ```[NF]``` [[Link]](https://www.imdb.com/title/tt0454921/) ```[5/5]``` ```[11/2019]```
