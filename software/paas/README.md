@@ -16,5 +16,5 @@ PaaS vs SaaS vs IaaS
 
 Heroku is a commercial service provider. You can create yourself an user account, and get a great service and hosting experiance for your applications and code.
 
-> [more info on heroku](heroku.md)
-
+* [Heroku](heroku.md)
+* [Docker](docker.md)
