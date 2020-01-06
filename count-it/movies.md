@@ -20,7 +20,8 @@ Total hours = 8*110 = 880/60
 6. Thai Jase ```[AP]``` [[Link]](https://www.imdb.com/title/tt5545568/) ```[3/5]``` ```[1/2020]```
 7. 1:1 Thierry Henry ```[AP]``` [[]](https://www.imdb.com/title/tt2616068/) ```[4.5/5]``` ```[1/2020]```
 8. Inception ```[NF]``` [[Link]](https://www.imdb.com/title/tt1375666/) ```[4.5/5]``` ```[1/2020]```
-
+9. Jodhaa Akbar ```[NF]``` [[Link]](https://www.imdb.com/title/tt0449994/
+) ```[3.5/5]``` ```[1/2020]```
 
 <!-- Template 
 - Name ```[]``` [[]]() ```[/5]``` ```[/]```
