@@ -4,6 +4,7 @@
 * [MindDB](minddb/README.md)
 * [Software](software/README.md)
   * [c++](software/c++/README.md)
+    * [test](software/c++/test/README.md)
     * [code](software/c++/code/README.md)
       * [If-else Vs Ternary](software/c++/code/ifelsevsternary.md)
       * [Best Fitting Plane](software/c++/code/bestfittingplane.md)
