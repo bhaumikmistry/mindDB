@@ -1,6 +1,6 @@
 # Introduction
 
-![Drawing](https://media.giphy.com/media/xThuWnOaQQ0jR91ZGU/giphy.gif)
+![](https://media.giphy.com/media/xThuWnOaQQ0jR91ZGU/giphy.gif)
 
 A personal wiki, a collection of documents and information.
 
