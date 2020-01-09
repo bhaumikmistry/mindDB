@@ -4,4 +4,4 @@ List of sports related article and documents. Things I need for streaming or fut
 
 * [Football](football/README.md)
     * [EPL](football/epl.md)
-    * [Arsenal](Football/arsenal.md)
+    * [Arsenal](football/arsenal.md)
