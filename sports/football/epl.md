@@ -2,7 +2,7 @@
 
 ## [EPL](https://www.premierleague.com/)
 
-The Premier League aks English Premier League, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promostion and relegation with the English Football League.
+The Premier League aka English Premier League, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League.
 
 * liks
   * [soccer-predictions](https://projects.fivethirtyeight.com/soccer-predictions/premier-league/)
