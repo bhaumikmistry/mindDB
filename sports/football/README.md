@@ -5,4 +5,3 @@ This section displays my enthusiasm for this sports, players I follow and the im
 Football is widely played sports in the world, closely watched and supported. I support Arsenal team, I also support few other individual player.
 
 * [EPL](epl.md)
-* [Arsenal](arsenal.md)

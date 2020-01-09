@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [MindDB](minddb/README.md)
 * [About Me](aboutme/README.md)
+* [Arsenal](arsenal/README.md)
 * [Art](art/README.md)
 * [Count-It](count-it/README.md)
   * [Movies](count-it/movies.md)
@@ -40,6 +41,5 @@
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)
-    * [Arsenal](sports/football/arsenal.md)
 
 
