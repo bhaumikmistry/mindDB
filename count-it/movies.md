@@ -18,12 +18,13 @@ FL - Flight;
 8. Inception ```[NF]``` [[Link]](https://www.imdb.com/title/tt1375666/) ```[4.5/5]``` ```[1/2020]```
 9. Jodhaa Akbar ```[NF]``` [[Link]](https://www.imdb.com/title/tt0449994/) ```[3.5/5]``` ```[1/2020]```
 10. Taare Zameen Par ```[NF]``` [[Link]](https://www.imdb.com/title/tt0986264/) ```[4/5]``` ```[1/2020]```
+11. Set it up ```[NF]``` [[Link]](https://www.imdb.com/title/tt5304992/) ```[3.5/5]``` ```[1/2020]```
 
 ---
 Average movie length 110 mins
-Total hours = 10*110 = 1100/60 
+Total hours = 11*110 = 1100/60 
 ```
-18 hr 19 min
+19 hr 59 min
 ```
 
 
