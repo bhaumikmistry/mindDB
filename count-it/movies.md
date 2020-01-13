@@ -1,5 +1,4 @@
 # Movies
-
 ```
 AP - Amazon Prime;
 NF - Netflix;
@@ -22,9 +21,9 @@ FL - Flight;
 
 ---
 Average movie length 110 mins
-Total hours = 11*110 = 1100/60 
+Total hours = 11*110 = 1210/60 
 ```
-19 hr 59 min
+20 hr 10 min
 ```
 
 
