@@ -2,4 +2,5 @@
 
 A page to keep a virtual count of random things.
 
- * [Movies](movies.md)
+* [Movies](movies.md)
+* [TV Series](tvseries.md)

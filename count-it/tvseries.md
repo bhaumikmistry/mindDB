@@ -7,7 +7,7 @@ MT - Movie Theater;
 FL - Flight;
 ```
 
-1. Jamtara (2020) ```[NF]``` [[imdb 7.8]](https://www.imdb.com/title/tt11150912/) ```[3/5]``` ```[1/2020]```
+1. Jamtara (2020) ```[NF]``` [[imdb 7.8]](https://www.imdb.com/title/tt11150912/) ```[3/5]``` ```[1/2020]``` ```[Episodes:10]```
 
 ---
 Average movie length 110 mins
