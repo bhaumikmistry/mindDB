@@ -20,12 +20,13 @@ FL - Flight;
 10. Taare Zameen Par ```[NF]``` [[Link]](https://www.imdb.com/title/tt0986264/) ```[4/5]``` ```[1/2020]```
 11. Set it up ```[NF]``` [[Link]](https://www.imdb.com/title/tt5304992/) ```[3.5/5]``` ```[1/2020]```
 12. Bala ```[HS]``` [[Link]](https://www.imdb.com/title/tt9420648/) ```[3.5/5]``` ```[1/2020]```
+13. Made in china ```[NF]``` [[LINK]](https://www.imdb.com/title/tt8983180/) ```[3/5]``` ```[1/2020]```
 
 ---
 Average movie length 110 mins
-Total hours = 12*110 = 1210/60 
+Total hours = (13*110)/60 
 ```
-22 hr 0 min
+23 hr 36 min
 ```
 
 
