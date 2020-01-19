@@ -2,6 +2,7 @@
 ```
 AP - Amazon Prime;
 NF - Netflix;
+HS - Hotstar;
 OS - Online Stream;
 MT - Movie Theater;
 FL - Flight;
@@ -18,12 +19,13 @@ FL - Flight;
 9. Jodhaa Akbar ```[NF]``` [[Link]](https://www.imdb.com/title/tt0449994/) ```[3.5/5]``` ```[1/2020]```
 10. Taare Zameen Par ```[NF]``` [[Link]](https://www.imdb.com/title/tt0986264/) ```[4/5]``` ```[1/2020]```
 11. Set it up ```[NF]``` [[Link]](https://www.imdb.com/title/tt5304992/) ```[3.5/5]``` ```[1/2020]```
+12. Bala ```[HS]``` [[Link]](https://www.imdb.com/title/tt9420648/) ```[3.5/5]``` ```[1/2020]```
 
 ---
 Average movie length 110 mins
-Total hours = 11*110 = 1210/60 
+Total hours = 12*110 = 1210/60 
 ```
-20 hr 10 min
+22 hr 0 min
 ```
 
 
