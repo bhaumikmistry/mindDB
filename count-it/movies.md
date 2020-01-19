@@ -20,13 +20,14 @@ FL - Flight;
 10. Taare Zameen Par ```[NF]``` [[Link]](https://www.imdb.com/title/tt0986264/) ```[4/5]``` ```[1/2020]```
 11. Set it up ```[NF]``` [[Link]](https://www.imdb.com/title/tt5304992/) ```[3.5/5]``` ```[1/2020]```
 12. Bala ```[HS]``` [[Link]](https://www.imdb.com/title/tt9420648/) ```[3.5/5]``` ```[1/2020]```
-13. Made in china ```[NF]``` [[LINK]](https://www.imdb.com/title/tt8983180/) ```[3/5]``` ```[1/2020]```
+13. Made in china ```[NF]``` [[Link]](https://www.imdb.com/title/tt8983180/) ```[3/5]``` ```[1/2020]```
+14. Steve Jobs ```[NF]``` [[Link]](https://www.imdb.com/title/tt2080374/) ```[4.5/5]``` ```[1/2020]```
 
 ---
 Average movie length 110 mins
-Total hours = (13*110)/60 
+Total hours = (count*110)/60 
 ```
-23 hr 36 min
+25 hr 36 min
 ```
 
 
