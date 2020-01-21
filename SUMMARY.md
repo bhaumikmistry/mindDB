@@ -6,6 +6,7 @@
 * [Arsenal](arsenal/README.md)
 * [Art](art/README.md)
 * [Count-It](count-it/README.md)
+  * [Books](count-it/books.md)
   * [Movies](count-it/movies.md)
   * [TV Series](count-it/tvseries.md)
 * [Drawingbook](drawingbook/README.md)
