@@ -22,12 +22,14 @@ FL - Flight;
 12. Bala ```[HS]``` [[Link]](https://www.imdb.com/title/tt9420648/) ```[3.5/5]``` ```[1/2020]```
 13. Made in china ```[NF]``` [[Link]](https://www.imdb.com/title/tt8983180/) ```[3/5]``` ```[1/2020]```
 14. Steve Jobs ```[NF]``` [[Link]](https://www.imdb.com/title/tt2080374/) ```[4.5/5]``` ```[1/2020]```
+15. Miracle ```[AP]``` [[Link]](https://www.imdb.com/title/tt0349825/) ```[4/5]``` ```[1/2020]```
+
 
 ---
 Average movie length 110 mins
 Total hours = (count*110)/60 
 ```
-25 hr 36 min
+27 hr 0 min
 ```
 
 
