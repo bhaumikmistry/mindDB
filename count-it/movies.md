@@ -11,7 +11,8 @@ FL - Flight;
 ### February 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|1. | Mujhse Dosti Karoge|```[AP]```|[[Link]](https://www.imdb.com/title/tt0272736/)|```[3/5]```|```[2/2020]```|
+|1. | Mujhse Dosti Karoge|`[AP]`|[[Link]](https://www.imdb.com/title/tt0272736/)|`[3/5]`|`[2/2020]`|
+|2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2/2020]`|
 
 
 
