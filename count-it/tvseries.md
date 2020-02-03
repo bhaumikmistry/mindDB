@@ -7,16 +7,23 @@ MT - Movie Theater;
 FL - Flight;
 ```
 
-1. Jamtara (2020) ```[NF]``` [[imdb 7.8]](https://www.imdb.com/title/tt11150912/) ```[3/5]``` ```[1/2020]``` ```[Episodes:10]```
+<!-- ### February 2020
+|   |   |   |   |   |   |
+|---|---|---|---|---|---| -->
+
+
+### January 2020
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|1.|Jamtara (2020)|`[NF]`|[[imdb 7.8]](https://www.imdb.com/title/tt11150912/)|`[3/5]`|`[1/2020]`|`[Epi.:10]`|
 
 ---
-Average movie length 110 mins
-Total hours = 12*110 = 1320/60 
+Average Series episode length 30 mins
+Total hours = 10 * 0.5 hrs
 ```
-22 hr 00 min
+5 hr 00 min
 ```
-
 
 <!-- Template 
-- Name ```[]``` [[]]() ```[/5]``` ```[/]```
+|-|Name|`[]`|[[]]()|`[/5]`|`[/]`|`[Epi.:]`|
 -->
