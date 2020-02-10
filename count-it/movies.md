@@ -12,8 +12,8 @@ FL - Flight;
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |1. | Mujhse Dosti Karoge|`[AP]`|[[Link]](https://www.imdb.com/title/tt0272736/)|`[3/5]`|`[2/2020]`|
-|2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2/2020]`|
-
+|2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2020]`|
+|3. | Miss Americana|`[NF]`|[[Link]](https://www.imdb.com/title/tt11388580/)|`[3.5/5]`|`[2020]`|
 
 
 ### January 2020
