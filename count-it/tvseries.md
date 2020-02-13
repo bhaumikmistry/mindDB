@@ -17,15 +17,9 @@ FL - Flight;
 ### January 2020
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
-|1.|Jamtara (2020)|`[NF]`|[[imdb 7.8]](https://www.imdb.com/title/tt11150912/)|`[3/5]`|`[1/2020]`|`[Epi.:10]`|`[Duration:30 min]`|
+|1.|Jamtara (2020)|`[NF]`|[[imdb 7.8]](https://www.imdb.com/title/tt11150912/)|`[3/5]`|`[2020]`|`[Epi.:10]`|`[Duration:30 min]`|
 
-
----
-Total hours = 10 * 30 min
-```
-5 hr 00 min
-```
 
 <!-- Template 
-|-|Name|`[]`|[[]]()|`[/5]`|`[/]`|`[Epi.:]`|
+|-|Name|`[]`|[[]]()|`[/5]`|`[/]`|`[Epi.:]`|`[Duration:]`|
 -->
