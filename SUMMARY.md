@@ -4,6 +4,7 @@
 * [MindDB](minddb/README.md)
 * [About Me](aboutme/README.md)
 * [Arsenal](arsenal/README.md)
+  * [Games](arsenal/games.md)
 * [Art](art/README.md)
 * [Count-It](count-it/README.md)
   * [Books](count-it/books.md)
