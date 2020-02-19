@@ -1,9 +1,9 @@
 # Arsenal Games list and records
 
 ## Record Table
-|Sr.|Type|Game|Score|Date|
+|**Sr.**|**Type**|**Game**|**Score**|**Date**|
 |---|---|---|---|---|
-||When-At|Links|H/A|Watch|
+||**When-At**|**Links**|**H/A**|**Watch**|
 |||||
 |`i`|--|`Season 2019-2020`|--||
 |1.|PL|Arsenal vs Newcastle United|4-0 | 16/02/2020 |
@@ -13,5 +13,4 @@
 <!-- 
 |||Arsenal vs|0-0|//2020|
 |||[]()|H/A|X||
-
  -->
