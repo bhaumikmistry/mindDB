@@ -3,6 +3,7 @@
 AP - Amazon Prime;
 NF - Netflix;
 HS - Hotstar;
+HL - Hulu;
 OS - Online Stream;
 MT - Movie Theater;
 FL - Flight;
@@ -11,9 +12,11 @@ FL - Flight;
 ### February 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|1. | Mujhse Dosti Karoge|`[AP]`|[[Link]](https://www.imdb.com/title/tt0272736/)|`[3/5]`|`[2/2020]`|
+|1. | Mujhse Dosti Karoge|`[AP]`|[[Link]](https://www.imdb.com/title/tt0272736/)|`[3/5]`|`[2002]`|
 |2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2020]`|
 |3. | Miss Americana|`[NF]`|[[Link]](https://www.imdb.com/title/tt11388580/)|`[3.5/5]`|`[2020]`|
+|4. |Along With the Gods: The Two Worlds|`[HL]`|[[imdb 7.3]](https://www.imdb.com/title/tt7160070/)|`[4/5]`|`[2017]`|
+
 
 
 ### January 2020
