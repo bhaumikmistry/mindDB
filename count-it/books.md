@@ -12,11 +12,15 @@ description: Data base of books with status and review or small notes.
 {% endtab %}
 
 {% tab title="Future" %}
-The secret history
+| Books | By | When |
+| :--- | :--- | :--- |
+| 📖 The Secret History | Dona Tart | 1992 |
 {% endtab %}
 
 {% tab title="Past" %}
-Trailblazers
+| Books | By | When |
+| :--- | :--- | :--- |
+| 📖 Trailblazer | Marc Benioff | 2019 |
 {% endtab %}
 {% endtabs %}
 
