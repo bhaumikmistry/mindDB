@@ -1,5 +1,14 @@
 # Books
 
 ### A2020
+{% codetabs name="Python", type="py" -%}
+msg = "Hello World"
+print msg
 
-### B2020
+{%- language name="JavaScript", type="js" -%}
+var msg = "Hello World";
+console.log(msg);
+
+{%- language name="HTML", type="html" -%}
+Hello World
+{%- endcodetabs %}
