@@ -16,6 +16,7 @@ description: A small list of tabs I created to track the books I am reading.
 | :--- | :--- | :--- | :--- |
 | PR001 | 📖 Men With Women | Haruki Murukami | 2014 |
 | PR002 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
+{% endtab %}
 
 {% tab title="Future" %}
 |Sr.   | Books | By | Released |
