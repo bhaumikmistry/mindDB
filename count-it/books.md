@@ -1,8 +1,14 @@
 ---
-description: Data base of books with status and review or small notes.
+description: A small list of tabs I created to track the books I am reading.
 ---
 
 # Books
+
+### About
+> Present(reading), Past(in and before 2019), future(to read) and 2020(read in 20202) tabs to keep track of all the books I am reading and have read.
+> This was inspired by [lexie’s book tracker](https://books.alexwlchan.net/) created by [Alex](https://alexwlchan.net/), which was by [similar book tracker](http://tessa-books.glitch.me/) created by [Tessa](https://twitter.com/tessthornton)
+
+### Data
 
 {% tabs %}
 {% tab title="Present" %}
