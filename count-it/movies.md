@@ -16,6 +16,7 @@ FL - Flight;
 |2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2020]`|
 |3. | Miss Americana|`[NF]`|[[Link]](https://www.imdb.com/title/tt11388580/)|`[3.5/5]`|`[2020]`|
 |4. |Along With the Gods: The Two Worlds|`[HL]`|[[imdb 7.3]](https://www.imdb.com/title/tt7160070/)|`[4/5]`|`[2017]`|
+|3.|Batla House|`[AP]`|[[imdb 7.2]](https://www.imdb.com/title/tt8869978/)|`[3.5/5]`|`[2019]`|
 
 
 
