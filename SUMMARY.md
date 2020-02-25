@@ -8,7 +8,6 @@
 * [Art](art/README.md)
 * [Count-It](count-it/README.md)
   * [Books](count-it/books.md)
-  * [Books Test](count-it/books-test.md)
   * [Movies](count-it/movies.md)
   * [TV Series](count-it/tvseries.md)
 * [Drawingbook](drawingbook/README.md)
