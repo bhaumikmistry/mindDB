@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [MindDB](minddb/README.md)
+* [MindDB](README.md)
 * [About Me](aboutme/README.md)
 * [Arsenal](arsenal/README.md)
   * [Games](arsenal/games.md)
