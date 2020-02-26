@@ -33,6 +33,7 @@
     * [Code](software/c++/code/README.md)
       * [If-else Vs Ternary](software/c++/code/ifelsevsternary.md)
       * [Best Fitting Plane](software/c++/code/bestfittingplane.md)
+      * [To Do](software/c++/code/todo.md)
   * [Chrome Extension](software/chromeextension/README.md)
   * [Android](software/android/README.md)
     * [Icons](software/android/icons.md)
