@@ -23,7 +23,7 @@ description: A small list of tabs I created to track the books I am reading.
 | :--- | :--- | :--- | :--- |
 | F0001 | 📖 The Secret History | Donna Tartt | 1992 |
 | F0002 | 📖 The Vault of Vishnu | Ashwin Sanghi | 2020 |
-The Vault of Vishnu by Ashwin Sanghi
+| F0003 | 📖 Chaos: Making a New Science | James Gleick | 1987 |
 {% endtab %}
 
 {% tab title="in 2020" %}
