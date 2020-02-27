@@ -14,8 +14,7 @@ description: A small list of tabs I created to track the books I am reading.
 {% tab title="Present" %}
 |Sr.   | Books | By | Released |
 | :--- | :--- | :--- | :--- |
-| PR001 | 📖 Men With Women | Haruki Murukami | 2014 |
-| PR002 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
+| PR001 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
 {% endtab %}
 
 {% tab title="Future" %}
@@ -26,11 +25,12 @@ description: A small list of tabs I created to track the books I am reading.
 | F0003 | 📖 Chaos: Making a New Science | James Gleick | 1987 |
 {% endtab %}
 
-{% tab title="in 2020" %}
-|Sr.   | Books | By | Released |
-| :--- | :--- | :--- | :--- |
+{% tab title="in 2020" %} 
+|Sr.   | Books | By | Released | 
+| :--- | :--- | :--- | :--- | :--- |
 | T0001 | 📖 Trailblazer | Marc Benioff | 2019 |
 | T0002 | 📖 Raavan: Enemy of Aryavarta | Amish Tripathi | 2019 |
+| T0003 | 📖 Men With Women | Haruki Murukami | 2014 |
 {% endtab %}
 
 {% tab title="Past" %}
@@ -58,3 +58,11 @@ description: A small list of tabs I created to track the books I am reading.
 
 <!-- |  | 📖 |  |  | -->
 
+---
+## Reviews
+
+| Book | ID / Name / By | Reviews |
+| :--- | :--- | :--- |
+| <img src="https://images1.penguinrandomhouse.com/cover/9781984825193" width="140"> | T0001 <br> Trailblazer <br> - _Marc Benioff_ | `reviews` |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51hnUhkqpOL.jpg" width="140"> | T0002 <br> Raavan: Enemy <br> of Aryavarta <br>  - _Amish Tripathi_ | `reviews` |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41gvt%2BSNErL._SX322_BO1,204,203,200_.jpg" width="140"> | T0003 <br> Men With  <br> Women <br>  - _Haruki Murukami_ | `reviews` |
