@@ -14,13 +14,13 @@ General Knowledge is information that has been accumulated over time through var
 
   > GK is stored as semantic memory, most semantic memory is preserved through old age, though there are deficit is retrieval of certain specific words correlated with aging.
 
-* Personality 
+* Personality
 
   > People high in GK tend to be highly open to new experiences and in typical intellectual engagement.
 
 ## Index
 
-* [Travel](travel/README.md)
+* [Travel](travel/)
   * [Truck Aerodynamics](travel/truck_aerodynamics.md)
   * [Sunroof vs Moonroof](travel/sunroofvsmoonroof.md)
 

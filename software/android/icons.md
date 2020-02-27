@@ -1,4 +1,4 @@
-# icons
+# Icons
 
 The icons used in the android development are gathered from different places.
 
