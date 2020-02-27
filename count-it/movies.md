@@ -1,14 +1,14 @@
-# Movies
-```
-AP - Amazon Prime;
-NF - Netflix;
-HS - Hotstar;
-HL - Hulu;
-OS - Online Stream;
-MT - Movie Theater;
-FL - Flight;
-```
+---
+description: A List of Movies watched per month on different media
+---
+# Movie
 
+## `Total Hours` 
+| Year  | Month | Time | Title |
+|---|---|---|---|
+| 2020  | January | 25 hr 37 min  | 14 |
+
+## `Monthly  Chart`
 ### February 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -39,18 +39,21 @@ FL - Flight;
 |14.| Saheb|```[AP]```|[[Link]](https://www.imdb.com/title/tt9531094/)|```[3/5]```|```[1/2020]```|
 
 ---
+#### Info
 Average movie length 110 mins
 Total hours = (count*110)/60 
-```
-25 hr 37 min
-```
 
 <!-- Template 
 | | Name|`[]`|[[]]()|`[/5]`|`[/]`|
 -->
 
-
-| Year  | Month | Time | Title |
-|---|---|---|---|
-| 2020  | January | 25 hr 37 min  | 14 |
-
+# Media
+```
+AP - Amazon Prime;
+NF - Netflix;
+HS - Hotstar;
+HL - Hulu;
+OS - Online Stream;
+MT - Movie Theater;
+FL - Flight;
+```
