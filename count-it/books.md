@@ -63,6 +63,6 @@ description: A small list of tabs I created to track the books I am reading.
 
 | Book | ID / Name / By | Reviews |
 | :--- | :--- | :--- |
-| <img src="https://images1.penguinrandomhouse.com/cover/9781984825193" width="140"> | T0001 <br> Trailblazer <br> - _Marc Benioff_ | `reviews` |
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51hnUhkqpOL.jpg" width="140"> | T0002 <br> Raavan: Enemy <br> of Aryavarta <br>  - _Amish Tripathi_ | `reviews` |
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41gvt%2BSNErL._SX322_BO1,204,203,200_.jpg" width="140"> | T0003 <br> Men With  <br> Women <br>  - _Haruki Murukami_ | `reviews` |
+| <img src="https://images1.penguinrandomhouse.com/cover/9781984825193" width="100"> | T0001 <br> Trailblazer <br> - _Marc Benioff_ | `reviews` |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51hnUhkqpOL.jpg" width="100"> | T0002 <br> Raavan: Enemy <br> of Aryavarta <br>  - _Amish Tripathi_ | `reviews` |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41gvt%2BSNErL._SX322_BO1,204,203,200_.jpg" width="100"> | T0003 <br> Men With  <br> Women <br>  - _Haruki Murukami_ | `reviews` |
