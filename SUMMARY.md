@@ -10,7 +10,7 @@
   * [Movies](count-it/movies.md)
   * [TV Series](count-it/tvseries.md)
 * [Drawingbook](drawingbook/README.md)
-  * [A to Z starbucks cup](drawingbook/atozstarbuck.md)
+  * [Instagram Drawing Book](drawingbook/instagram_sequence/README.md)
 * [General Knowledge](gk/README.md)
   * [Travel](gk/travel/README.md)
     * [Truck Aerodynamics](gk/travel/truck_aerodynamics.md)
