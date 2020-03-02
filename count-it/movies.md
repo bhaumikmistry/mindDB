@@ -7,8 +7,13 @@ description: A List of Movies watched per month on different media
 | Year  | Month | Time | Title |
 |---|---|---|---|
 | 2020  | January | 25 hr 37 min  | 14 |
+| 2020  | February | 11 hr 0 min  | 6 |
 
 ## `Monthly  Chart`
+<!-- ### March 2020
+|   |   |   |   |   |   |
+|---|---|---|---|---|---| -->
+
 ### February 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -16,8 +21,8 @@ description: A List of Movies watched per month on different media
 |2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2020]`|
 |3. | Miss Americana|`[NF]`|[[Link]](https://www.imdb.com/title/tt11388580/)|`[3.5/5]`|`[2020]`|
 |4. |Along With the Gods: The Two Worlds|`[HL]`|[[imdb 7.3]](https://www.imdb.com/title/tt7160070/)|`[4/5]`|`[2017]`|
-|3.|Batla House|`[AP]`|[[imdb 7.2]](https://www.imdb.com/title/tt8869978/)|`[3.5/5]`|`[2019]`|
-
+|5.|Batla House|`[AP]`|[[imdb 7.2]](https://www.imdb.com/title/tt8869978/)|`[3.5/5]`|`[2019]`|
+|6.|Good Newwz|`[AP]`|[[imdb 7.4]](https://www.imdb.com/title/tt8504014/)|`[3/5]`|`[2019]`|
 
 
 ### January 2020
@@ -41,7 +46,6 @@ description: A List of Movies watched per month on different media
 ---
 #### Info
 Average movie length 110 mins
-Total hours = (count*110)/60 
 
 <!-- Template 
 | | Name|`[]`|[[]]()|`[/5]`|`[/]`|
