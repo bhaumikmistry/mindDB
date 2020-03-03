@@ -16,14 +16,17 @@ FL - Flight;
 
 | Year | Month | Time | Title | Seasons | Episode | Average Duration |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2020 | February | 40 hr 45 min | 3 | 6 | 49 | 50 Mins |
-| 2020 | January | 5 hr 0 min | 1 | 2 | 10 | 30 Mins |
+| 2020 | January | 5h 0m | 1 | 2 | 10 | 30 Mins |
+| 2020 | February | 40h 45m | 3 | 6 | 49 | 50 Mins |
+| 2020 | March | 6h 40m | 1 | 1 | 10 | 40 Mins |
 
 ## `Monthly  Chart`
 
-<!-- ### March 2020
+### March 2020
 |  |  |  |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | -->
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. | Formula 1: Drive to Survive| `[NF]` | [\[imdb 8.6\]](https://www.imdb.com/title/tt8289930/) | `[4/5]` | `[2020]` | `[S:2 E:10]` | `[Duration:40 min]` |
+
 
 ### February 2020
 
