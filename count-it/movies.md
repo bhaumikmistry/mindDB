@@ -20,9 +20,9 @@ description: A List of Movies watched per month on different media
 |1. | Mujhse Dosti Karoge|`[AP]`|[[Link]](https://www.imdb.com/title/tt0272736/)|`[3/5]`|`[2002]`|
 |2. | Shimla Mirchi|`[NF]`|[[Link]](https://www.imdb.com/title/tt4486148/)|`[2.5/5]`|`[2020]`|
 |3. | Miss Americana|`[NF]`|[[Link]](https://www.imdb.com/title/tt11388580/)|`[3.5/5]`|`[2020]`|
-|4. |Along With the Gods: The Two Worlds|`[HL]`|[[imdb 7.3]](https://www.imdb.com/title/tt7160070/)|`[4/5]`|`[2017]`|
-|5.|Batla House|`[AP]`|[[imdb 7.2]](https://www.imdb.com/title/tt8869978/)|`[3.5/5]`|`[2019]`|
-|6.|Good Newwz|`[AP]`|[[imdb 7.4]](https://www.imdb.com/title/tt8504014/)|`[3/5]`|`[2019]`|
+|4. | Along With the Gods: The Two Worlds|`[HL]`|[[imdb 7.3]](https://www.imdb.com/title/tt7160070/)|`[4/5]`|`[2017]`|
+|5.| Batla House|`[AP]`|[[imdb 7.2]](https://www.imdb.com/title/tt8869978/)|`[3.5/5]`|`[2019]`|
+|6.| Good Newwz|`[AP]`|[[imdb 7.4]](https://www.imdb.com/title/tt8504014/)|`[3/5]`|`[2019]`|
 
 
 ### January 2020
