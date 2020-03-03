@@ -4,13 +4,6 @@ description: A List of TV series watched per month on different media
 
 # TV Series
 
-```text
-AP - Amazon Prime;
-NF - Netflix;
-OS - Online Stream;
-MT - Movie Theater;
-FL - Flight;
-```
 
 ## `Total hours`
 
@@ -42,3 +35,11 @@ FL - Flight;
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | Jamtara | `[NF]` | [\[imdb 7.8\]](https://www.imdb.com/title/tt11150912/) | `[3/5]` | `[2020]` | `[S:1 E:10]` | `[Duration:30 min]` |
 
+### Info
+```text
+AP - Amazon Prime;
+NF - Netflix;
+OS - Online Stream;
+MT - Movie Theater;
+FL - Flight;
+```
