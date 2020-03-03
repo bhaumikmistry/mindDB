@@ -1,5 +1,5 @@
 ---
-description: A to P letter art sketch
+description: A to P letter art sketches on paper, a digital touch is given to make the sketch look similar and avoid photographic light manipulation
 ---
 
    <!-- - [2019-10-15_14-28-45_844.jpeg_bw](2019-10-15_14-28-45_844.jpeg_bw.md)
