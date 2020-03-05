@@ -23,6 +23,19 @@ description: A small list of tabs I created to track the books I am reading.
 | F0001 | 📖 The Secret History | Donna Tartt | 1992 |
 | F0002 | 📖 The Vault of Vishnu | Ashwin Sanghi | 2020 |
 | F0003 | 📖 Chaos: Making a New Science | James Gleick | 1987 |
+| F0004 | 📖 Inner Engineering | Sadhguru | 2016 |
+| F0005 | 📖 Conscience And Courage | John Hawkins | 2019 |
+| F0006 | 📖 The Little Friend | Donna Tartt | 2003 |
+| F0007 | 📖 Let It Snow | Jhon Green | 2008 |
+| F0008 | 📖 All The Bright Places | Jennifer Niven | 2015 |
+| F0009 | 📖 I'll Give You The Sun | Jandy Nelson | 2015 |
+| F0010 | 📖 Extremely Loud & Incredibly Close | Jonathan Foer | 2005 |
+| F0011 | 📖 Why Am I Hindu | Shashi Tharoor | 2018 |
+| F0012 | 📖 The Golden Age | Michal Ajvaz | 2010 |
+| F0013 | 📖 Kiss The Girls | James Patterson | 1995 |
+| F0014 | 📖 Digital Fortress | Dan Brown | 1998 |
+| F0015 | 📖 The God Of Small Things | Arundhati Roy | 1997 |
+
 {% endtab %}
 
 {% tab title="in 2020" %}
@@ -50,6 +63,11 @@ description: A small list of tabs I created to track the books I am reading.
 | P0012 | 📖 A Brief History of Time | Stephen Hawking | 1988 |
 | P0013 | 📖 Norwegian Wood | Haruki Murukami | 1987 |
 | P0014 | 📖 My Gita | Devdutt Pattanaik | 2015 |
+| P0015 | 📖 Red Queen | Victoria Aveyard | 2015 |
+| P0016 | 📖 The Notebook | Nicholas Spraks | 1996 |
+| P0017 | 📖 Water Street | Patrcia  Giff | 2008 |
+| P0018 | 📖 Wreck This Journal Everywhere | Keri Smith | 2014 |
+
 {% endtab %}
 {% endtabs %}
 
