@@ -1,5 +1,5 @@
 ---
-description: A small list of tabs I created to track the books I am reading.
+description: A active list of tabs to track the books I am reading.
 ---
 
 # Books
