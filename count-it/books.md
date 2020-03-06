@@ -15,26 +15,26 @@ description: A active list of tabs to track the books I am reading.
 | Sr. | Books | By | Released |
 | :--- | :--- | :--- | :--- |
 | PR001 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
+| PR002 | 📖 The Secret History | Donna Tartt | 1992 |
 {% endtab %}
 
 {% tab title="Future" %}
 | Sr. | Books | By | Released |
 | :--- | :--- | :--- | :--- |
-| F0001 | 📖 The Secret History | Donna Tartt | 1992 |
-| F0002 | 📖 The Vault of Vishnu | Ashwin Sanghi | 2020 |
-| F0003 | 📖 Chaos: Making a New Science | James Gleick | 1987 |
-| F0004 | 📖 Inner Engineering | Sadhguru | 2016 |
-| F0005 | 📖 Conscience And Courage | John Hawkins | 2019 |
-| F0006 | 📖 The Little Friend | Donna Tartt | 2003 |
-| F0007 | 📖 Let It Snow | Jhon Green | 2008 |
-| F0008 | 📖 All The Bright Places | Jennifer Niven | 2015 |
-| F0009 | 📖 I'll Give You The Sun | Jandy Nelson | 2015 |
-| F0010 | 📖 Extremely Loud & Incredibly Close | Jonathan Foer | 2005 |
-| F0011 | 📖 Why Am I Hindu | Shashi Tharoor | 2018 |
-| F0012 | 📖 The Golden Age | Michal Ajvaz | 2010 |
-| F0013 | 📖 Kiss The Girls | James Patterson | 1995 |
-| F0014 | 📖 Digital Fortress | Dan Brown | 1998 |
-| F0015 | 📖 The God Of Small Things | Arundhati Roy | 1997 |
+| F0001 | 📖 The Vault of Vishnu | Ashwin Sanghi | 2020 |
+| F0002 | 📖 Chaos: Making a New Science | James Gleick | 1987 |
+| F0003 | 📖 Inner Engineering | Sadhguru | 2016 |
+| F0004 | 📖 Conscience And Courage | John Hawkins | 2019 |
+| F0005 | 📖 The Little Friend | Donna Tartt | 2003 |
+| F0006 | 📖 Let It Snow | Jhon Green | 2008 |
+| F0007 | 📖 All The Bright Places | Jennifer Niven | 2015 |
+| F0008 | 📖 I'll Give You The Sun | Jandy Nelson | 2015 |
+| F0009 | 📖 Extremely Loud & Incredibly Close | Jonathan Foer | 2005 |
+| F0010 | 📖 Why Am I Hindu | Shashi Tharoor | 2018 |
+| F0011 | 📖 The Golden Age | Michal Ajvaz | 2010 |
+| F0012 | 📖 Kiss The Girls | James Patterson | 1995 |
+| F0013 | 📖 Digital Fortress | Dan Brown | 1998 |
+| F0014 | 📖 The God Of Small Things | Arundhati Roy | 1997 |
 
 {% endtab %}
 
