@@ -26,7 +26,7 @@
     * [L](drawingbook/atoz_sketches/2019-10-15_14-32-06_483.jpeg_bw.md)
     * [M](drawingbook/atoz_sketches/2019-10-15_14-32-50_696.png_bw.md)
     * [N](drawingbook/atoz_sketches/2019-10-15_14-33-07_662.png_bw.md)
-    * [O](drawingbook/atoz_sketches/2019-10-15_14-33-35_757.jpeg_bw.md)
+    * [P](drawingbook/atoz_sketches/2019-10-15_14-33-35_757.jpeg_bw.md)
 
 * [General Knowledge](gk/README.md)
   * [Travel](gk/travel/README.md)
