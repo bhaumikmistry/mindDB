@@ -64,4 +64,6 @@
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)
+* [Stocks](stocks/README.md)
+  * [TARP](stocks/TARP.md)
 
