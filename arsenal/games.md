@@ -17,8 +17,8 @@ description: List of Arsenal Games and information related to the games watched.
 |  |  |  |  |  |
 | 1.  | FA | Arsenal vs Portsmouth | 2-0 | 03/02/2020 |
 |  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-02/portsmouth), [_Video_](https://www.youtube.com/watch?v=FO4_JP5Q8LE&feature=onebox) | _A_ | _-_ |
-| 2.  | FA | Arsenal vs West Ham | 1-0 | 03/07/2020 |
-|  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-02/portsmouth), [_Video_](https://www.youtube.com/watch?v=FO4_JP5Q8LE&feature=onebox) | _A_ | _-_ |
+| 2.  | PL | Arsenal vs West Ham | 1-0 | 03/07/2020 |
+|  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-07/west-ham-united), [_Video_](https://www.youtube.com/watch?v=QY-srYLXVOI&feature=onebox) | _A_ | _-_ |
 
 
 ### **February 2020**
