@@ -1,7 +1,7 @@
 ---
 description: A List of Movies watched per month on different media
 ---
-# Movie
+# Movies
 
 ## `Total Hours` 
 | Year  | Month | Time | Title |
