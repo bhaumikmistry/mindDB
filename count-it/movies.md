@@ -14,6 +14,7 @@ description: A List of Movies watched per month on different media
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |1. | Guilty |`[NF]`|[[imdb 6.0]](https://www.imdb.com/title/tt10062614/)|`[4/5]`|`[2020]`|
+|2. | Love Aaj kal |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt1275863/)|`[4/5]`|`[2009]`|
 
 ### February 2020
 |   |   |   |   |   |   |
