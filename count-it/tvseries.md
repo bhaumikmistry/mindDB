@@ -19,6 +19,8 @@ description: A List of TV series watched per month on different media
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | Formula 1: Drive to Survive| `[NF]` | [\[imdb 8.6\]](https://www.imdb.com/title/tt8289930/) | `[4/5]` | `[2020]` | `[S:2 E:10]` | `[Duration:40 min]` |
+| 2. | Dirty Money "The Wagon Wheel"| `[NF]` | [\[imdb 7.7\]](https://www.imdb.com/title/tt11688740/?ref_=ttep_ep1) | `[4.5/5]` | `[2020]` | `[S:2 E:(1)]` | `[Duration:60 min]` |
+
 
 
 ### February 2020
