@@ -1,7 +1,7 @@
 ---
 description: A List of Movies watched per month on different media
 ---
-# Movie
+# Movies
 
 ## `Total Hours` 
 | Year  | Month | Time | Title |
@@ -15,6 +15,8 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|---|---|
 |1. | Guilty |`[NF]`|[[imdb 6.0]](https://www.imdb.com/title/tt10062614/)|`[4/5]`|`[2020]`|
 |2. | Chhapaak |`[HS]`|[[imdb 4.9]](https://www.imdb.com/title/tt9614460/)|`[3/5]`|`[2020]`|
+|3. | Tanhaji |`[HS]`|[[imdb 8.1]](https://www.imdb.com/title/tt8108274/)|`[4/5]`|`[2020]`|
+|2. | Love Aaj kal |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt1275863/)|`[4/5]`|`[2009]`|
 
 ### February 2020
 |   |   |   |   |   |   |
