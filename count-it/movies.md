@@ -18,6 +18,8 @@ description: A List of Movies watched per month on different media
 |3. | Tanhaji |`[HS]`|[[imdb 8.1]](https://www.imdb.com/title/tt8108274/)|`[4/5]`|`[2020]`|
 |4. | Love Aaj kal |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt1275863/)|`[4/5]`|`[2009]`|
 |5. | Contagion |`[OS]`|[[imdb 6.7]](https://www.imdb.com/title/tt1598778/)|`[4.5/5]`|`[2011]`|
+|6. | Hasee Toh Phasee |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt3173910/)|`[4/5]`|`[2014]`|
+
 ### February 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
