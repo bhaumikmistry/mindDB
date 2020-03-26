@@ -20,6 +20,7 @@ description: A List of Movies watched per month on different media
 |5. | Contagion |`[OS]`|[[imdb 6.7]](https://www.imdb.com/title/tt1598778/)|`[4.5/5]`|`[2011]`|
 |6. | Hasee Toh Phasee |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt3173910/)|`[4/5]`|`[2014]`|
 |7. | Panga |`[HS]`|[[imdb 7.2]](https://www.imdb.com/title/tt8983166/)|`[3.5/5]`|`[2020]`|
+|8. | The Banker |`[HS]`|[[imdb 7.2]](https://www.imdb.com/title/tt8983166/)|`[3.5/5]`|`[2020]`|
 
 ### February 2020
 |   |   |   |   |   |   |
