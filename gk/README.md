@@ -18,9 +18,6 @@ General Knowledge is information that has been accumulated over time through var
 
   > People high in GK tend to be highly open to new experiences and in typical intellectual engagement.
 
-## Index
-
-* [Travel](travel/)
-  * [Truck Aerodynamics](travel/truck_aerodynamics.md)
-  * [Sunroof vs Moonroof](travel/sunroofvsmoonroof.md)
+- [Travel](travel/README.md)
+- [Memory](memory/README.md)
 
