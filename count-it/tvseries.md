@@ -43,6 +43,7 @@ description: A List of TV series watched per month on different media
 ```text
 AP - Amazon Prime;
 NF - Netflix;
+AT - Apple TV;
 OS - Online Stream;
 MT - Movie Theater;
 FL - Flight;
