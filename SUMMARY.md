@@ -30,8 +30,6 @@
 
 * [General Knowledge](gk/README.md)
   * [Travel](gk/travel/README.md)
-    * [Truck Aerodynamics](gk/travel/truck_aerodynamics.md)
-    * [Sunroof vs Moonroof](gk/travel/sunroofvsmoonroof.md)
   * [Memory](gk/memory/README.md)
     * [anki-augmenting-cognition](gk/memory/anki-augmentation-cogition.md)
 * [Mac](mac/README.md)
