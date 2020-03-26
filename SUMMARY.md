@@ -29,8 +29,9 @@
     * [P](drawingbook/atoz_sketches/2019-10-15_14-33-35_757.jpeg_bw.md)
 
 * [General Knowledge](gk/README.md)
-  * [Travel](gk/travel/README.md)
-  * [Memory](gk/memory/README.md)
+  * [Travel](gk/README_travel.md)
+  * [Memory](gk/README_memory.md)
+  * [Anger and Hunger](gk/README_anger_and_hunger.md)
 * [Mac](mac/README.md)
   * [OS X version from command line](mac/osx-version-cli.md)
   * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
