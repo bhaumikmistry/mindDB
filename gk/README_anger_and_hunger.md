@@ -25,4 +25,15 @@ Elevated [cortisol](https://www.webmd.com/a-to-z-guides/what-is-cortisol#1) kill
 Too much [cortisol](https://www.webmd.com/a-to-z-guides/what-is-cortisol#1) will decreases [serotonin](https://www.healthline.com/health/mental-health/serotonin) - that's the hormone that makes you happy. A decrease in [serotonin](https://www.healthline.com/health/mental-health/serotonin) can make you feel anger and pain more easily, as well as increase aggressive behavior and lead to depression. Anger affects your immune system, the more stressed out and anger you are the more likely you are to get sick.
 
 ## Hunger
+
+The need to find fuel to generate energy is a profound drive within the biology of all living organisms: we all need food to survive. So it's not surprising that our bodies have such a complex system to control food intake, driven by hormones.
+
+Hormone levels also change when we lose weight. As much as we battle to trim down via diets and eating pattern, they're also the reason most of us will regain the weight we lose - or more.
+
+The body;s system for regulating food intake is coordinated by the hypothalamus, which is located under the midline of the brain, behind the eyes.
+
+The activity is mainly controlled by hormones that circulate in the blood. These come from tissues in various parts of the body that deal with energy intake and storage, including the gut (which receives and digests the food), the fat(which stores the energy) and pancreas(which makes hormones that are involved in energy storage, such as insulin).
+
+*Gherlin* is made in the stomach,
+
 ## Relation of Anger and Hunger
