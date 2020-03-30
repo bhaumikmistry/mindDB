@@ -21,6 +21,7 @@ description: A List of Movies watched per month on different media
 |6. | Hasee Toh Phasee |`[OS]`|[[imdb 6.8]](https://www.imdb.com/title/tt3173910/)|`[4/5]`|`[2014]`|
 |7. | Panga |`[HS]`|[[imdb 7.2]](https://www.imdb.com/title/tt8983166/)|`[3.5/5]`|`[2020]`|
 |8. | The Banker |`[HS]`|[[imdb 7.0]](https://www.imdb.com/title/tt6285944/)|`[3.5/5]`|`[2020]`|
+|9. | Oh My God! |`[NF]`|[[imdb 8.1]](https://www.imdb.com/title/tt2283748/)|`[4/5]`|`[2012]`|
 
 ### February 2020
 |   |   |   |   |   |   |
