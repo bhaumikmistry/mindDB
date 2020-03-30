@@ -11,7 +11,7 @@ description: A List of TV series watched per month on different media
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2020 | January | 5h 0m | 1 | 2 | 10 | 30 Mins |
 | 2020 | February | 50h 0m | 3 | 7 | 60 | 50 Mins |
-| 2020 | March | 6h 40m | 1 | 1 | 10 | 40 Mins |
+| 2020 | March | 25h 0m | 4 | 4 | 10 | 40 Mins |
 
 ## `Monthly  Chart`
 
@@ -20,9 +20,8 @@ description: A List of TV series watched per month on different media
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | Formula 1: Drive to Survive| `[NF]` | [\[imdb 8.6\]](https://www.imdb.com/title/tt8289930/) | `[4/5]` | `[2020]` | `[S:2 E:10]` | `[Duration:40 min]` |
 | 2. | Dirty Money "The Wagon Wheel"| `[NF]` | [\[imdb 7.7\]](https://www.imdb.com/title/tt11688740/?ref_=ttep_ep1) | `[4.5/5]` | `[2020]` | `[S:2 E:(1)]` | `[Duration:60 min]` |
-| 3. | Special Ops | `[HS]` | [\[imdb 8.8\]](https://www.imdb.com/title/tt11854694/) | `[4.5/5]` | `[2020]` | `[S:2 E:(1)]` | `[Duration:50 min]` |
-
-
+| 3. | Special Ops | `[HS]` | [\[imdb 8.8\]](https://www.imdb.com/title/tt11854694/) | `[4.5/5]` | `[2020]` | `[S:1 E:8]` | `[Duration:50 min]` |
+| 4. | Living With Yourself | `[NF]` | [\[imdb 7,3\]](https://www.imdb.com/title/tt8880894/) | `[3/5]` | `[2019]` | `[S:1 E:8]` | `[Duration:26 min]` |
 
 ### February 2020
 
