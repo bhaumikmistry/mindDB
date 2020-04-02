@@ -32,6 +32,7 @@
   * [Travel](gk/README_travel.md)
   * [Memory](gk/README_memory.md)
   * [Anger and Hunger](gk/README_anger_and_hunger.md)
+  * [COVID-19](gk/README_covid_19.md)
 * [Mac](mac/README.md)
   * [OS X version from command line](mac/osx-version-cli.md)
   * [System setup](https://raw.githubusercontent.com/bhaumikmistry/mac-system-setup/master/README.md)
