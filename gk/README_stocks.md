@@ -8,3 +8,7 @@ A Stocks exchange is an exchange where stockbrokers and traders can buy and sell
 
 ### What Is A Stock
 A piece of ownership of the company.
+
+
+# Troubled Asset Relief Program
+Troubled Asset Relief Program (TARP) is a program of the United States government to purchase toxic assets and equity from financial institutions ...

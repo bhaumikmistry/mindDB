@@ -9,3 +9,4 @@ High scorers on tests of GK tend to also score highly on intelligence tests. IQ 
 - [Memory](README_memory.md)
 - [Anger and Hunger](README_anger_and_hunger.md)
 - [COVID-19](README_covid_19.md)
+- [Stocks](README_stocks.md)
