@@ -8,8 +8,16 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|
 | 2020  | January | 25 hr 37 min  | 14 |
 | 2020  | February | 11 hr 0 min  | 6 |
+| 2020  | March | 14 hr 16 min  | 8 |
 
 ## `Monthly  Chart`
+
+### April 2020
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|1. | The Social Network |`[NF]`|[[imdb 7.7]](https://www.imdb.com/title/tt1285016/)|`[4/5]`|`[2010]`|
+
+
 ### March 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
