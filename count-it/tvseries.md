@@ -14,6 +14,10 @@ description: A List of TV series watched per month on different media
 | 2020 | March | 25h 0m | 4 | 4 | 10 | 40 Mins |
 
 ## `Monthly  Chart`
+### April 2020
+|  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. | Money Heist | `[NF]` | [\[imdb 8.8\]](https://www.imdb.com/title/tt8289930/) | `[4.5/5]` | `[2020]` | `[S:1 E:8]` | `[Duration:40 min]` |
 
 ### March 2020
 |  |  |  |  |  |  |  |  |
