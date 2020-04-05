@@ -8,7 +8,7 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|
 | 2020  | January | 25 hr 37 min  | 14 |
 | 2020  | February | 11 hr 0 min  | 6 |
-| 2020  | March | 14 hr 16 min  | 8 |
+| 2020  | March | 16 hr 30 min  | 9 |
 
 ## `Monthly  Chart`
 
@@ -16,6 +16,7 @@ description: A List of Movies watched per month on different media
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |1. | The Social Network |`[NF]`|[[imdb 7.7]](https://www.imdb.com/title/tt1285016/)|`[4/5]`|`[2010]`|
+|2. | Mississippi Grind |`[NF]`|[[imdb 6.4]](https://www.imdb.com/title/tt2349144/)|`[3.5/5]`|`[2010]`|
 
 
 ### March 2020
