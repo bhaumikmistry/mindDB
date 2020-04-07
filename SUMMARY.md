@@ -4,7 +4,6 @@
 * [About Me](aboutme.md)
 * [Arsenal](arsenal/README.md)
   * [Games](arsenal/games.md)
-* [Art](art.md)
 * [Count-It](count-it/README.md)
   * [Books](count-it/books.md)
   * [Movies](count-it/movies.md)
