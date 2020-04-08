@@ -7,6 +7,8 @@ description: List of Arsenal Games and information related to the games watched.
 |**Month**|**Games**|**Win**|**Lose**|**Draw**|**GD**|**Type**|
 |--|--|--|--|--|--|--|
 |2020 February|4|3|1|0|5|`[2]` PL `[2]` EL|
+|2020 March|2|2|0|0|3|`[2]` PL `[2]` EL|
+
 
 # `2019 - 2020`
 ## `Monthly Chart`
@@ -19,7 +21,8 @@ description: List of Arsenal Games and information related to the games watched.
 |  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-02/portsmouth), [_Video_](https://www.youtube.com/watch?v=FO4_JP5Q8LE&feature=onebox) | _A_ | _-_ |
 | 2.  | PL | Arsenal vs West Ham | 1-0 | 03/07/2020 |
 |  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-07/west-ham-united), [_Video_](https://www.youtube.com/watch?v=QY-srYLXVOI&feature=onebox) | _A_ | _-_ |
-
+| 3.  | -- | Arsenal Matches | 0-0 | Postponed TBD |
+|  |  | [_More Info COVID_](#Games-Delayed-due-to-COVID-19-03-2020) | _A_ | _-_ |
 
 ### **February 2020**
 
@@ -36,3 +39,16 @@ description: List of Arsenal Games and information related to the games watched.
 | 4. | EL | Arsenal vs Olympiacos | 1-2 | 02/27/2020 |
 |  | _R31-Leg2_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-feb-27/olympiacos), [_Video_](https://www.youtube.com/watch?v=pERIqrOIiMo&feature=onebox) | _A_ | _X_ |
 
+---
+### Games Delayed due to COVID-19 03-2020
+It was acknowledged that the Premier League will not resume at the beginning of May – and that the 2019/20 season will only return when it is safe and appropriate to do so.
+
+The restart date is under constant review with all stakeholders, as the impact of the COVID-19 pandemic develops and we work together through this very challenging time.
+
+The Premier League is working closely with the whole of professional football in this country, as well as with the Government, public agencies and other relevant stakeholders to ensure the game achieves a collaborative solution. 
+
+With this, there is a combined objective for all remaining domestic league and cup matches to be played, enabling us to maintain the integrity of each competition.
+
+However, any return to play will only be with the full support of the Government and when medical guidance allows.
+
+The sporting and financial implications for Premier League clubs as well as for The FA, EFL and National League were considered at today’s meeting
