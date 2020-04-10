@@ -34,6 +34,14 @@ The body;s system for regulating food intake is coordinated by the hypothalamus,
 
 The activity is mainly controlled by hormones that circulate in the blood. These come from tissues in various parts of the body that deal with energy intake and storage, including the gut (which receives and digests the food), the fat(which stores the energy) and pancreas(which makes hormones that are involved in energy storage, such as insulin).
 
-*Gherlin* is made in the stomach,
+*[Gherlin](https://www.yourhormones.info/hormones/ghrelin/)* is made in the stomach,Ti stimulates hunger by entering the brain and acting on the neurons in the hypothalamus to increase the activity of the hunger-causing nerve cells and reducing the activity of hunger-inhibiting cells.  
+
+*[Cholecystokinin](https://www.yourhormones.info/hormones/Cholecystokinin/)* CKK is produced in the upper small bowl in response to food and gives a feeling of fullness. It is release soon after food reaches the small bowl,
+
+The key part is that all the hormones then gradually return to their fasting levels three to four hours after a meal.
 
 ## Relation of Anger and Hunger
+
+The carbohydrates, proteins and fats in everything you eat are digested into simple sugars such as glucose, amino acids and free fatty acids. The nutrients pass into blood stream from where they are distributed to your organs and tissues and used for energy.
+
+As time passes after your last meal, the amount of these nutrients circulating in your bloodstream start to drop. if your blood-glucose levels fall far enough, your brain will perceive it as a life-threatening situation. you see, unlike most other organs and tissues in your body which can use a variety of nutrients to keep functioning, your brain is critically dependent on glucose to do its job.
