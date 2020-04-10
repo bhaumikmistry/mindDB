@@ -17,6 +17,9 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|---|---|
 |1. | The Social Network |`[NF]`|[[imdb 7.7]](https://www.imdb.com/title/tt1285016/)|`[4/5]`|`[2010]`|
 |2. | Mississippi Grind |`[NF]`|[[imdb 6.4]](https://www.imdb.com/title/tt2349144/)|`[3.5/5]`|`[2010]`|
+|3. | Luv Ni Love Storys |`[AP]`|[[imdb 6.4]](https://www.imdb.com/title/tt2349144/)|`[3/5]`|`[2010]`|
+
+
 
 
 ### March 2020
