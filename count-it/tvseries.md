@@ -18,6 +18,7 @@ description: A List of TV series watched per month on different media
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | Money Heist | `[NF]` | [\[imdb 8.8\]](https://www.imdb.com/title/tt8289930/) | `[4.5/5]` | `[2020]` | `[S:1 E:8]` | `[Duration:40 min]` |
+| 2. | The Test: Australia | `[AP]` | [\[imdb 8.8\]](https://www.imdb.com/title/tt11347692/) | `[5/5]` | `[2020]` | `[S:1 E:8]` | `[Duration:50 min]` |
 
 ### March 2020
 |  |  |  |  |  |  |  |  |
