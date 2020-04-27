@@ -8,7 +8,7 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|
 | 2020  | January | 25 hr 37 min  | 14 |
 | 2020  | February | 11 hr 0 min  | 6 |
-| 2020  | March | 16 hr 30 min  | 9 |
+| 2020  | March | 18 hr 19 min  | 10 |
 
 ## `Monthly  Chart`
 
@@ -23,7 +23,7 @@ description: A List of Movies watched per month on different media
 |6. | Order Order Out of Order |`[AP]`|[[imdb 6.2]](https://www.imdb.com/title/tt9686586/)|`[3.5/5]`|`[2019]`|
 |7. | The Big Short |`[AP]`|[[imdb 7.8 ]](https://www.imdb.com/title/tt1596363/)|`[4.5/5]`|`[2015]`|
 |8. | Kal ho naa ho |`[AP]`|[[imdb 8.0 ]](https://www.imdb.com/title/tt0347304/)|`[4.5/5]`|`[2003]`|
-https://www.imdb.com/title/tt10309906/Shubh%20Mangal%20Zyada%20Saavdhan%20(2020)
+|9. | Shubh Mangal Zyada Saavdhan |`[AP]`|[[imdb 6.0]](https://www.imdb.com/title/tt10309906/)|`[2.5/5]`|`[2020]`|
 
 ### March 2020
 |   |   |   |   |   |   |
