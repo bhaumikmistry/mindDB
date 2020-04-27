@@ -22,9 +22,7 @@ description: A List of TV series watched per month on different media
 | 3. | Panchayat | `[AP]` | [\[imdb 8.7\]](https://www.imdb.com/title/tt12004706/) | `[4.5/5]` | `[2020]` | `[S:1 E:8]` | `[Duration:35 min]` |
 | 4. | The English Game | `[NF]` | [\[imdb 7.7\]](https://www.imdb.com/title/tt8403664/) | `[4.5/5]` | `[2020]` | `[S:1 E:6]` | `[Duration:50 min]` |
 | 5. | Bosch | `[AP]` | [\[imdb 8.4\]](https://www.imdb.com/title/tt3502248/) | `[4.5/5]` | `[2020]` | `[S:6 E:10]` | `[Duration:51 min]` |
-
-
-
+| 6. | Making the Cut | `[AP]` | [\[imdb 6.6\]](https://www.imdb.com/title/tt8962394/ ) | `[3.5/5]` | `[2020]` | `[S:1 E:10]` | `[Duration:60 min]` |
 ### March 2020
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
