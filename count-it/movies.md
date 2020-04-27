@@ -21,6 +21,7 @@ description: A List of Movies watched per month on different media
 |4. | English Medium  |`[HS]`|[[imdb 7.5]](https://www.imdb.com/title/tt8907986/)|`[3.5/5]`|`[2020]`|
 |5. | Parasite |`[HL]`|[[imdb 8.6]](https://www.imdb.com/title/tt6751668/)|`[4.5/5]`|`[2019]`|
 |6. | Order Order Out of Order |`[AP]`|[[imdb 6.2]](https://www.imdb.com/title/tt9686586/)|`[3.5/5]`|`[2019]`|
+|6. | The Big Short |`[AP]`|[[imdb7.8 ]](https://www.imdb.com/title/tt1596363/)|`[4.5/5]`|`[2015]`|
 
 ### March 2020
 |   |   |   |   |   |   |
