@@ -10,7 +10,7 @@
   * [TV Series](count-it/tvseries.md)
 * [Drawingbook](drawingbook/README.md)
   * [Instagram Drawing Book](drawingbook/instagram_sequence/README.md)
-  * [Pixel art book](drawingbook/pixel_art/README.m)
+  * [Pixel art book](drawingbook/pixel_art/README.md)
   * [A to P sketches](drawingbook/atoz_sketches/README.md)
     * [A](drawingbook/atoz_sketches/2019-10-15_14-28-45_844.jpeg_bw.md)
     * [B](drawingbook/atoz_sketches/2019-10-15_14-28-59_170.jpeg_bw.md)
