@@ -24,6 +24,8 @@ description: A List of Movies watched per month on different media
 |7. | The Big Short |`[AP]`|[[imdb 7.8 ]](https://www.imdb.com/title/tt1596363/)|`[4.5/5]`|`[2015]`|
 |8. | Kal ho naa ho |`[AP]`|[[imdb 8.0 ]](https://www.imdb.com/title/tt0347304/)|`[4.5/5]`|`[2003]`|
 |9. | Shubh Mangal Zyada Saavdhan |`[AP]`|[[imdb 6.0]](https://www.imdb.com/title/tt10309906/)|`[2.5/5]`|`[2020]`|
+|10. | Angel Has Fallen |`[NF]`|[[imdb 6.4]](https://www.imdb.com/title/tt6189022/)|`[3.5/5]`|`[2019]`|
+
 
 ### March 2020
 |   |   |   |   |   |   |
