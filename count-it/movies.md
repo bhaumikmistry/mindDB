@@ -12,6 +12,18 @@ description: A List of Movies watched per month on different media
 
 ## `Monthly  Chart`
 
+{% tabs %}
+{% tab title="April" %}
+{% endtab %}
+{% tab title="March" %}
+{% endtab %}
+{% tab title="February" %}
+{% endtab %}
+{% tab title="January" %}
+{% endtab %}
+{% endtabs %}
+
+
 ### April 2020
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
