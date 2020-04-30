@@ -65,4 +65,5 @@
     * [EPL](sports/football/epl.md)
 * [Stocks](stocks/README.md)
   * [TARP](stocks/TARP.md)
+* [Bhaumik Mistry](bhaumikmistry.md)
 
