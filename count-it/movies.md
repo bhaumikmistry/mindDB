@@ -27,6 +27,7 @@ description: A List of Movies watched per month on different media
 |9. | Shubh Mangal Zyada Saavdhan |`[AP]`|[[imdb 6.0]](https://www.imdb.com/title/tt10309906/)|`[2.5/5]`|`[2020]`|
 |10. | Angel Has Fallen |`[NF]`|[[imdb 6.4]](https://www.imdb.com/title/tt6189022/)|`[3.5/5]`|`[2019]`|
 |11. | Kapoor & Sons |`[NF]`|[[imdb 7.7]](https://www.imdb.com/title/tt4900716/)|`[4.5/5]`|`[2016]`|
+|12.| Olympus Has Fallen |`[NF]`|[[imdb 6.5]](https://www.imdb.com/title/tt2302755/)|`[4/5]`|`[2013]`|
 {% endtab %}
 {% tab title="March" %}
 |   |   |   |   |   |   |
