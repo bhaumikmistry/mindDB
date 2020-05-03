@@ -4,11 +4,14 @@ description: A List of Movies watched per month on different media
 # Movies
 
 ## `Total Hours` 
-| Year  | Month | Time | Title |
+| Year  | Month | Time | Titles |
 |---|---|---|---|
 | 2020  | January | 25 hr 37 min  | 14 |
 | 2020  | February | 11 hr 0 min  | 6 |
 | 2020  | March | 18 hr 19 min  | 10 |
+| 2020  | April | 25 hr 37 min  | 14 |
+| 2020  | Total | 4 d 10 hr 10 min  | 14 |
+
 
 ## `2020`
 
@@ -83,7 +86,7 @@ description: A List of Movies watched per month on different media
 {% endtabs %}
 
 ---
-#### Info
+### `Info`
 Average movie length 110 mins
 
 <!-- Template 
