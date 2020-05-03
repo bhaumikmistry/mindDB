@@ -9,9 +9,10 @@ description: A List of TV series watched per month on different media
 
 | Year | Month | Time | Title | Seasons | Episode | Average Duration |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2020 | January | 5h 0m | 1 | 2 | 10 | 30 Mins |
-| 2020 | February | 50h 0m | 3 | 7 | 60 | 50 Mins |
-| 2020 | March | 25h 0m | 4 | 4 | 10 | 40 Mins |
+| 2020 | January | 5 h 0 m | 1 | 2 | 10 | 30 Mins |
+| 2020 | February | 50 h 0 m | 3 | 7 | 60 | 50 Mins |
+| 2020 | March | 25 h 0 m | 4 | 4 | 10 | 40 Mins |
+| 2020 | April | 41 h 0 m | 4 | 4 | 10 | 40 Mins |
 
 ## `Monthly  Chart`
 ### May 2020
