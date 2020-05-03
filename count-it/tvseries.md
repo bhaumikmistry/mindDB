@@ -14,6 +14,11 @@ description: A List of TV series watched per month on different media
 | 2020 | March | 25h 0m | 4 | 4 | 10 | 40 Mins |
 
 ## `Monthly  Chart`
+### May 2020
+|  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. | Never Have I Ever | `[NF]` | [\[imdb 8.1\]](https://www.imdb.com/title/tt10062292/) | `[3/5]` | `[2020]` | `[S:1 E:10]` | `[Duration:30 min]` |
+
 ### April 2020
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
