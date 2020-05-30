@@ -21,6 +21,12 @@ description: A List of Movies watched per month on different media
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |1.| Yeh Jawaani Hai Deewani |`[OS]`|[[imdb 7.1]](https://www.imdb.com/title/tt2178470/)|`[4.5/5]`|`[2013]`|
+|2.| Chak De! India |`[NF]`|[[imdb 7.1]](https://www.imdb.com/title/tt2178470/)|`[4.5/5]`|`[2007]`|
+|3.| Hotel Mumbai |`[HL]`|[[imdb 7.1]](https://www.imdb.com/title/tt2178470/)|`[4.5/5]`|`[2018]`|
+|4.| 3 Idiots |`[NF]`|[[imb 7.1]](https://www.imdb.com/title/tt2178470/)|`[4.5/5]`|`[2009]`|
+|5.| Thappad |`[AP]`|[[imdb 7.1]](https://www.imdb.com/title/tt2178470/)|`[4.5/5]`|`[2020]`|
+|6.| I Am Kalam |`[AP]`|[[imdb 8.0]](https://www.imdb.com/title/tt1805263/)|`[4/5]`|`[2010]`|
+
 {% endtab %}
 {% tab title="April" %}
 |   |   |   |   |   |   |
