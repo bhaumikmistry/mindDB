@@ -28,6 +28,7 @@ description: A List of Movies watched per month on different media
 |6.| I Am Kalam |`[AP]`|[[imdb 8.0]](https://www.imdb.com/title/tt1805263/)|`[4/5]`|`[2010]`|
 |7.| Sergio |`[NF]`|[[imdb 6.1]](https://www.imdb.com/title/tt8750570/)|`[3/5]`|`[2020]`|
 |8.| The Half Of It |`[NF]`|[[imdb 7.0]](https://www.imdb.com/title/tt9683478/)|`[4/5]`|`[2020]`|
+|9.| Malang |`[NF]`|[[imdb 6.5]](https://www.imdb.com/title/tt9877170/)|`[4/5]`|`[2020]`|
 
 {% endtab %}
 {% tab title="April" %}
