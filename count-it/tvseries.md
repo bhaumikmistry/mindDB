@@ -21,8 +21,7 @@ description: A List of TV series watched per month on different media
 ### June 2020
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. |  | `[]` | [\[imdb 8.1\]](https://www.imdb.com/title/tt10062292/) | `[/5]` | `[]` | `[S: E:]` | `[Duration:  min]` |
-|
+| 1. | Jeffrey Epstein: Filthy Rich | `[NF]` | [\[imdb 7.1\]](https://www.imdb.com/title/tt12312250/) | `[3/5]` | `[2020]` | `[S:1 E:4]` | `[Duration: 56 min]` |
 
 ### May 2020
 |  |  |  |  |  |  |  |  |
