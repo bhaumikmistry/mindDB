@@ -10,11 +10,17 @@ description: A List of Movies watched per month on different media
 | 2020  | February | 11 hr 0 min  | 6 |
 | 2020  | March | 18 hr 19 min  | 10 |
 | 2020  | April | 25 hr 37 min  | 14 |
+| 2020  | May | 19 hr 30 min  | 9 |
 | 2020  | Total | 4 d 10 hr 10 min  | 14 |
 
 
 ## `2020`
+{% tabs %}
+{% tab title="June" %}
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
 
+{% endtab %}
 
 {% tabs %}
 {% tab title="May" %}
