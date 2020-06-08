@@ -17,6 +17,13 @@ description: A List of TV series watched per month on different media
 
 
 ## `Monthly  Chart`
+
+### June 2020
+|  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. |  | `[]` | [\[imdb 8.1\]](https://www.imdb.com/title/tt10062292/) | `[/5]` | `[]` | `[S: E:]` | `[Duration:  min]` |
+|
+
 ### May 2020
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
