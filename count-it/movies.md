@@ -23,7 +23,6 @@ description: A List of Movies watched per month on different media
 
 {% endtab %}
 
-{% tabs %}
 {% tab title="May" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
