@@ -16,6 +16,7 @@ description: A active list of tabs to track the books I am reading.
 | :--- | :--- | :--- | :--- |
 | B0035 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
 | B0036 | 📖 The Secret History | Donna Tartt | 1992 |
+| B0037 | 📖 1984 | George orwell | 1948 |
 {% endtab %}
 
 {% tab title="Future" %}
