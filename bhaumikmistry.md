@@ -25,15 +25,15 @@
 |-|-|-|
 {% endtab %}
 {% tab title="2/17'-4/20'" %}
-|Where|What|When|
+|Where|What|Where|
 |--|--|--|
-|-|-|-|
+|![](az.jpg)Amazon|![](alexa.jpeg)SDE Alexa EDGE|Cambridge, MA|
 {% endtab %}
 {% endtabs %}
 
 ### Open Source Work
 
-### Education
+### Education![](name-of-giphy.gif)
 {% tabs %}
 {% tab title="Master" %}
 |Where|What|When|
