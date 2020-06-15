@@ -22,12 +22,12 @@
 {% tab title="5/20'-Present" %}
 |Where|What|When|
 |--|--|--|
-|-|-|-|
+|![](az.jpg)|![](alexa.jpeg)SDE|Cambridge, MA|
 {% endtab %}
 {% tab title="2/17'-4/20'" %}
 |Where|What|Where|
 |--|--|--|
-|![](az.jpg)Amazon|![](alexa.jpeg)SDE Alexa EDGE|Cambridge, MA|
+|-|-|-|
 {% endtab %}
 {% endtabs %}
 
