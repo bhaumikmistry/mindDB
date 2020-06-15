@@ -2,6 +2,7 @@
 
 * [MindDB](README.md)
 * [About Me](aboutme.md)
+* [Bhaumik Mistry](bhaumikmistry.md)
 * [Arsenal](arsenal/README.md)
   * [Games](arsenal/games.md)
 * [Count-It](count-it/README.md)
@@ -65,5 +66,4 @@
     * [EPL](sports/football/epl.md)
 * [Stocks](stocks/README.md)
   * [TARP](stocks/TARP.md)
-* [Bhaumik Mistry](bhaumikmistry.md)
 
