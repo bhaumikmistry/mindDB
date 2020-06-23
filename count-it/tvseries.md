@@ -22,6 +22,7 @@ description: A List of TV series watched per month on different media
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | Jeffrey Epstein: Filthy Rich | `[NF]` | [\[imdb 7.1\]](https://www.imdb.com/title/tt12312250/) | `[3/5]` | `[2020]` | `[S:1 E:4]` | `[Duration: 56 min]` |
+| 2. | Selling Sunset | `[NF]` | [\[imdb 5.8\]](https://www.imdb.com/title/tt9817298/) | `[3/5]` | `[2020]` | `[S:2 E:9]` | `[Duration: 30 min]` |
 
 ### May 2020
 |  |  |  |  |  |  |  |  |
