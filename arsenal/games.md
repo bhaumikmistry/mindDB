@@ -23,6 +23,8 @@ description: List of Arsenal Games and information related to the games watched.
 |  |  |  |  |  |
 | 1.  | PL | Arsenal vs Man. City  | 0-3 | 06/17/2020 |
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/Arsenal/2020-Jun-17/manchester-city#!match-news),[_Video_](https://www.youtube.com/watch?v=rQ016rXVXus) | _A_ | _X_ |
+| 2.  | PL | Arsenal vs Brighton  | 1-2 | 06/20/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/Arsenal/2020-Jun-20/brighton#!match-news),[_Video_](https://www.youtube.com/watch?v=Mrz8PWkneuY) | _A_ | _X_ |
 
 ### **May 2020 COVID effect**
 
