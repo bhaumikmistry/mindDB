@@ -15,6 +15,19 @@ description: List of Arsenal Games and information related to the games watched.
 
 # `2019 - 2020`
 ## `Monthly Chart`
+
+### **June 2020**
+| **Sr.** | **Type** | **Game** | **Score** | **Date** |
+| :--- | :--- | :--- | :--- | :--- |
+|  | _When-At_ | _Links_ | _H/A_ | _Watch_ |
+|  |  |  |  |  |
+| 1.  | PL | Arsenal vs Man. City  | 0-3 | 06/17/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/Arsenal/2020-Jun-17/manchester-city#!match-news),[_Video_](https://www.youtube.com/watch?v=rQ016rXVXus) | _A_ | _X_ |
+
+### **May 2020 COVID effect**
+
+### **April 2020 COVID effect**
+
 ### **March 2020**
 | **Sr.** | **Type** | **Game** | **Score** | **Date** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +36,7 @@ description: List of Arsenal Games and information related to the games watched.
 | 1.  | FA | Arsenal vs Portsmouth | 2-0 | 03/02/2020 |
 |  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-02/portsmouth), [_Video_](https://www.youtube.com/watch?v=FO4_JP5Q8LE&feature=onebox) | _A_ | _-_ |
 | 2.  | PL | Arsenal vs West Ham | 1-0 | 03/07/2020 |
-|  | _5th-R_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-07/west-ham-united), [_Video_](https://www.youtube.com/watch?v=QY-srYLXVOI&feature=onebox) | _A_ | _-_ |
+|  | _9_ | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-mar-07/west-ham-united), [_Video_](https://www.youtube.com/watch?v=QY-srYLXVOI&feature=onebox) | _A_ | _-_ |
 | 3.  | -- | Arsenal Matches | 0-0 | Postponed TBD |
 |  |  | [_More Info COVID_](#Games-Delayed-due-to-COVID-19-03-2020) | _A_ | _-_ |
 
