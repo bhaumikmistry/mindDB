@@ -7,7 +7,10 @@ description: List of Arsenal Games and information related to the games watched.
 |**Month**|**Games**|**Win**|**Lose**|**Draw**|**GD**|**Type**|
 |--|--|--|--|--|--|--|
 |2020 February|4|3|1|0|5|`[2]` PL `[2]` EL|
-|2020 March|2|2|0|0|3|`[2]` PL `[2]` EL|
+|2020 March|2|2|0|0|3|`[1]` PL `[1]` FA|
+|2020 April|0|0|0|0|0|-|
+|2020 May|0|0|0|0|0|-|
+|2020 June|0|0|0|0|0|-|
 
 
 # `2019 - 2020`
