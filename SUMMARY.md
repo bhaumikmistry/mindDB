@@ -61,6 +61,8 @@
   * [People](software/people/README.md)
     * [Paul Graham](software/people/paulgraham.md)
     * [Ben Kuhn](software/people/benkuhn.md)
+  * [Python](software/python/README.md)
+    * [Pytest](software/python/pytests.md)
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)

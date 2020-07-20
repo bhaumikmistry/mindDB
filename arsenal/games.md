@@ -11,6 +11,7 @@ description: List of Arsenal Games and information related to the games watched.
 |2020 April|0|0|0|0|0|-|
 |2020 May|0|0|0|0|0|-|
 |2020 June|0|0|0|0|0|-|
+|2020 July|0|0|0|0|0|-|
 
 
 # `2019 - 2020`
@@ -29,6 +30,7 @@ description: List of Arsenal Games and information related to the games watched.
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/Arsenal/2020-Jun-25/southampton#!match-news),[_Video_](https://www.youtube.com/watch?v=-l9_D-6hZCo) | _A_ | _X_ |
 | 4.  | FA | Arsenal vs Sheffield United  | 2-1 | 06/28/2020 |
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/Arsenal/2020-Jun-25/southampton#!match-news),[_Video_](https://www.youtube.com/watch?v=4X4PKYMQ-XI) | _A_ | _X_ |
+
 ### **May 2020 COVID effect**
 
 ### **April 2020 COVID effect**
