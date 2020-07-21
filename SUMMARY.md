@@ -63,6 +63,7 @@
     * [Ben Kuhn](software/people/benkuhn.md)
   * [Python](software/python/README.md)
     * [Pytest](software/python/pytests.md)
+    * [UUID](software/python/uuid.md)
 * [Sports](sports/README.md)
   * [Football\(soccer\)](sports/football/README.md)
     * [EPL](sports/football/epl.md)
