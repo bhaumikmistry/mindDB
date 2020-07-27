@@ -15,7 +15,6 @@ description: A List of Movies watched per month on different media
 
 
 ## `2020`
-## `2020`
 {% tabs %}
 {% tab title="July" %}
 |   |   |   |   |   |   |

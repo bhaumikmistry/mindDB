@@ -17,6 +17,14 @@ description: List of Arsenal Games and information related to the games watched.
 # `2019 - 2020`
 ## `Monthly Chart`
 
+### **July 2020**
+| **Sr.** | **Type** | **Game** | **Score** | **Date** |
+| :--- | :--- | :--- | :--- | :--- |
+|  | _When-At_ | _Links_ | _H/A_ | _Watch_ |
+|  |  |  |  |  |
+| 1.  | PL | Arsenal vs Norwich City  | 0-4 | 07/1/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-01/norwich-city#!match-news),[_Video_](https://www.youtube.com/watch?v=qmnc_RbJ4AM) | _A_ | _X_ |
+
 ### **June 2020**
 | **Sr.** | **Type** | **Game** | **Score** | **Date** |
 | :--- | :--- | :--- | :--- | :--- |
