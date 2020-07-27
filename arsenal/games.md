@@ -27,13 +27,18 @@ description: List of Arsenal Games and information related to the games watched.
 | 2.  | PL | Arsenal vs Wolves  | 2-0 | 07/4/2020 |
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-04/wolves#!match-news),[_Video_](https://www.youtube.com/watch?v=OPfZTUjB_ZY) | _A_ | _X_ |
 | 3.  | PL | Arsenal vs Leicester  | 1-1 | 07/7/2020 |
-|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-07/leicester#!match-news),[_Video_](https://www.youtube.com/watch?v=BJBaCbFZ3O0) | _A_ | _X_ |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-07/leicester#!match-news),[_Video_](https://www.youtube.com/watch?v=BJBaCbFZ3O0) | _H_ | _X_ |
 | 4.  | PL | Arsenal vs Tottenham Hotspur  | 1-2 | 07/12/2020 |
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-12/tottenham-hotspur#!match-news),[_Video_](https://www.youtube.com/watch?v=NvMmc2SlxGo) | _A_ | _X_ |
 | 5.  | PL | Arsenal vs Liverpool  | 2-1 | 07/15/2020 |
-|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-15/liverpool#!match-news),[_Video_](https://www.youtube.com/watch?v=8mnVqcgIN0Q&t=19s) | _A_ | _X_ |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-15/liverpool#!match-news),[_Video_](https://www.youtube.com/watch?v=8mnVqcgIN0Q&t=19s) | _H_ | _X_ |
 | 6.  | FA | Arsenal vs Man. City  | 2-0 | 07/18/2020 |
-|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-18/manchester-city),[_Video_](https://www.youtube.com/watch?v=R6-HrA0dhr4) | _A_ | _X_ |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-18/manchester-city),[_Video_](https://www.youtube.com/watch?v=R6-HrA0dhr4) | _H_ | _X_ |
+| 7.  | PL | Arsenal vs Aston Villa  | 2-0 | 07/21/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-21/aston-villa#!match-news),[_Video_](https://www.youtube.com/watch?v=IUAMaFjnPi4) | _A_ | _X_ |
+| 8.  | PL | Arsenal vs Watford  | 3-2 | 07/26/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-26/watford),[_Video_](https://www.youtube.com/watch?v=aIphU7I6nXI) | _H_ | _X_ |
+
 
 ### **June 2020**
 | **Sr.** | **Type** | **Game** | **Score** | **Date** |
