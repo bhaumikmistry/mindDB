@@ -32,8 +32,8 @@ description: List of Arsenal Games and information related to the games watched.
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-12/tottenham-hotspur#!match-news),[_Video_](https://www.youtube.com/watch?v=NvMmc2SlxGo) | _A_ | _X_ |
 | 5.  | PL | Arsenal vs Liverpool  | 2-1 | 07/15/2020 |
 |  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-15/liverpool#!match-news),[_Video_](https://www.youtube.com/watch?v=8mnVqcgIN0Q&t=19s) | _A_ | _X_ |
-| 6.  | PL | Arsenal vs Liverpool  | 2-1 | 07/15/2020 |
-|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-15/liverpool#!match-news),[_Video_](https://www.youtube.com/watch?v=8mnVqcgIN0Q&t=19s) | _A_ | _X_ |
+| 6.  | FA | Arsenal vs Man. City  | 2-0 | 07/18/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Jul-18/manchester-city),[_Video_](https://www.youtube.com/watch?v=R6-HrA0dhr4) | _A_ | _X_ |
 
 ### **June 2020**
 | **Sr.** | **Type** | **Game** | **Score** | **Date** |
