@@ -19,8 +19,11 @@ description: A List of Movies watched per month on different media
 {% tab title="July" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|1.|  |`[HS]`|[[imdb 8.3]](https://www.imdb.com/title/tt4430212/)|`[4/5]`|`[2015]`|
-add mitro
+|1.| Drishyam |`[HS]`|[[imdb 8.3]](https://www.imdb.com/title/tt4430212/)|`[4/5]`|`[2015]`|
+|2.| Ae Dil Hai Mushkil |`[NF]`|[[imdb 5.8]](https://www.imdb.com/title/tt4559006/)|`[3/5]`|`[2016]`|
+|3.| Shutter Island |`[OT]`|[[imdb 8.2]](https://www.imdb.com/title/tt1130884/)|`[4/5]`|`[2010]`|
+|4.| 3 Idiots |`[NF]`|[[imdb 8.4]](https://www.imdb.com/title/tt1187043/)|`[4.5/5]`|`[209]`|
+
 
 {% endtab %}
 
