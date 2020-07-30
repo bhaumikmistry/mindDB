@@ -22,8 +22,12 @@ description: A List of Movies watched per month on different media
 |1.| Drishyam |`[HS]`|[[imdb 8.3]](https://www.imdb.com/title/tt4430212/)|`[4/5]`|`[2015]`|
 |2.| Ae Dil Hai Mushkil |`[NF]`|[[imdb 5.8]](https://www.imdb.com/title/tt4559006/)|`[3/5]`|`[2016]`|
 |3.| Shutter Island |`[OT]`|[[imdb 8.2]](https://www.imdb.com/title/tt1130884/)|`[4/5]`|`[2010]`|
-|4.| 3 Idiots |`[NF]`|[[imdb 8.4]](https://www.imdb.com/title/tt1187043/)|`[4.5/5]`|`[209]`|
-
+|4.| 3 Idiots |`[NF]`|[[imdb 8.4]](https://www.imdb.com/title/tt1187043/)|`[4.5/5]`|`[2009]`|
+|5.| Queen |`[NF]`|[[imdb 8.4]](https://www.imdb.com/title/tt3322420/)|`[3.5/5]`|`[2013]`|
+|6.| Kabhi Alvida Naa Kehna |`[NF]`|[[imdb 6.1]](https://www.imdb.com/title/tt0449999/)|`[3.5/5]`|`[2006]`|
+|7.| The Healer |`[NF]`|[[imdb 6.3]](https://www.imdb.com/title/tt4356480/)|`[3/5]`|`[2016]`|
+|8.| Twilight |`[AP]`|[[imdb 5.2]](https://www.imdb.com/title/tt1099212/)|`[3/5]`|`[2008]`|
+|9.| New Moon |`[AP]`|[[imdb 4.7]](https://www.imdb.com/title/tt1259571/)|`[3/5]`|`[2009]`|
 
 {% endtab %}
 
