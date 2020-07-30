@@ -39,7 +39,7 @@ description: A List of Movies watched per month on different media
 |2.| Shivaji | `[OT]`|[[imdb 7.5]](https://www.imdb.com/title/tt0479751/)|`[3.5/5]`|`[2007]`|
 |3.| Ratatouille | `[OT]`|[[imdb 8.0]](https://www.imdb.com/title/tt0479751/)|`[4.5/5]`|`[2007]`|
 |4.| Grownups | `[AP]`|[[imdb 5.9]](https://www.imdb.com/title/tt1375670/)|`[3.5/5]`|`[2010]`|
-add mitro
+|5.| Mitron | `[AP]`|[[imdb 6.9]](https://www.imdb.com/title/tt8852558/)|`[2.5/5]`|`[2018]`|
 
 {% endtab %}
 
