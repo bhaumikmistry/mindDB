@@ -31,6 +31,7 @@ description: A List of Movies watched per month on different media
 |10.| Eclipse |`[AP]`|[[imdb 5.0]](https://www.imdb.com/title/tt1325004/)|`[3/5]`|`[2010]`|
 |11.| Breaking Dawn 1 |`[AP]`|[[imdb 4.9]](https://www.imdb.com/title/tt1324999/)|`[3/5]`|`[2011]`|
 |12.| Breaking Dawn 2 |`[AP]`|[[imdb 5.5]](https://www.imdb.com/title/tt1673434/)|`[3/5]`|`[2012]`|
+|13.| The Lion King |`[HT]`|[[imdb 6.9]](https://www.imdb.com/title/tt6105098/)|`[4/5]`|`[2019]`|
 
 {% endtab %}
 
