@@ -11,7 +11,9 @@ description: A List of Movies watched per month on different media
 | 2020  | March | 18 hr 19 min  | 10 |
 | 2020  | April | 25 hr 37 min  | 14 |
 | 2020  | May | 19 hr 30 min  | 9 |
-| 2020  | Total | 4 d 10 hr 10 min  | 14 |
+| 2020  | June | 19 hr 30 min  | 5 |
+| 2020  | July | 23 hr 48 min  | 13 |
+| 2020  | Total | 4 d 10 hr 10 min  | 71 |
 
 
 ## `2020`
@@ -34,7 +36,6 @@ description: A List of Movies watched per month on different media
 |13.| The Lion King |`[HT]`|[[imdb 6.9]](https://www.imdb.com/title/tt6105098/)|`[4/5]`|`[2019]`|
 
 {% endtab %}
-
 {% tab title="June" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -45,7 +46,6 @@ description: A List of Movies watched per month on different media
 |5.| Mitron | `[AP]`|[[imdb 6.9]](https://www.imdb.com/title/tt8852558/)|`[2.5/5]`|`[2018]`|
 
 {% endtab %}
-
 {% tab title="May" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
