@@ -17,6 +17,14 @@ description: List of Arsenal Games and information related to the games watched.
 # `2019 - 2020`
 ## `Monthly Chart`
 
+### **August 2020**
+| **Sr.** | **Type** | **Game** | **Score** | **Date** |
+| :--- | :--- | :--- | :--- | :--- |
+|  | _When-At_ | _Links_ | _H/A_ | _Watch_ |
+|  |  |  |  |  |
+| 1.  | FA-Final | Arsenal vs Chelsea  | 2-1 | 08/1/2020 |
+|  | 9 | [_More Info_](https://www.arsenal.com/fixture/arsenal/2020-Aug-01/chelsea#!match-news),[_Video_](https://www.youtube.com/watch?v=1B6Fy6sLt-0) | _W_ | _X_ |
+
 ### **July 2020**
 | **Sr.** | **Type** | **Game** | **Score** | **Date** |
 | :--- | :--- | :--- | :--- | :--- |
