@@ -13,6 +13,7 @@ description: A List of Movies watched per month on different media
 | 2020  | May | 19 hr 30 min  | 9 |
 | 2020  | June | 19 hr 30 min  | 5 |
 | 2020  | July | 23 hr 48 min  | 13 |
+| 2020  | August | -  | - |
 | 2020  | Total | 4 d 10 hr 10 min  | 71 |
 
 
