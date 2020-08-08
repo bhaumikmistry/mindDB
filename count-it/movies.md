@@ -17,6 +17,14 @@ description: A List of Movies watched per month on different media
 | 2020  | Total | 4 d 10 hr 10 min  | 71 |
 
 
+{% tabs %}
+{% tab title="July" %}
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|1.| Dil Bechara |`[HS]`|[[imdb 8.3]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
+{% endtab %}
+
+
 ## `2020`
 {% tabs %}
 {% tab title="July" %}
