@@ -21,7 +21,8 @@ description: A List of Movies watched per month on different media
 {% tab title="July" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|1.| Dil Bechara |`[HS]`|[[imdb 8.3]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
+|1.| Dil Bechara |`[HS]`|[[imdb 9]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
+|2.| Ford vs Ferrari |`[HS]`|[[imdb 8.1]](https://www.imdb.com/title/tt1950186/)|`[4/5]`|`[2019]`|
 {% endtab %}
 
 
