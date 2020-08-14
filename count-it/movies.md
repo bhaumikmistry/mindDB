@@ -23,6 +23,10 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|---|---|
 |1.| Dil Bechara |`[HS]`|[[imdb 9]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
 |2.| Ford vs Ferrari |`[HS]`|[[imdb 8.1]](https://www.imdb.com/title/tt1950186/)|`[4/5]`|`[2019]`|
+Gunjan Saxena
+Rich In Love
+
+
 {% endtab %}
 
 

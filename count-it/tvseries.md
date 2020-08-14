@@ -18,6 +18,8 @@ description: A List of TV series watched per month on different media
 
 ## `Monthly  Chart`
 
+Too Hot To Handle
+
 ### June 2020
 |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
