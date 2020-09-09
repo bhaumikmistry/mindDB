@@ -7,6 +7,7 @@
   * [Games](arsenal/games.md)
 * [Count-It](count-it/README.md)
   * [Books](count-it/books.md)
+  * [Games](count-it/games.md)
   * [Movies](count-it/movies.md)
   * [TV Series](count-it/tvseries.md)
 * [Drawingbook](drawingbook/README.md)
