@@ -10,9 +10,16 @@ description: A List of Games watched per month on different media
 
 {% tabs %}
 {% tab title="July" %}
-|   |   |   |   |   |   |
+
+| **Sr**  | **When** |   **Teams** | **score** | **type** |  **Result** |
 |---|---|---|---|---|---|
-|  | **When** | **Teams** | **score** | **type** |
+|||||||
+Celtics vs 76ers game 1-2-3-4
+Celtics vs Raptors 1 to 7
+Patriots vs Miami Dolphins 
+Tempa bay buccaneers vs New Orleans Saints 
+
+
 {% endtab %}
 {% endtabs %}
 
