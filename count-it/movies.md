@@ -14,11 +14,19 @@ description: A List of Movies watched per month on different media
 | 2020  | June | 19 hr 30 min  | 5 |
 | 2020  | July | 23 hr 48 min  | 13 |
 | 2020  | August | -  | - |
+| 2020  | September | -  | - |
 | 2020  | Total | 4 d 10 hr 10 min  | 71 |
 
-
+## `2020`
 {% tabs %}
-{% tab title="July" %}
+{% tab title="September" %}
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|1.| Dil Bechara |`[HS]`|[[imdb 9]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
+Tamasha
+{% endtab %}
+
+{% tab title="August" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |1.| Dil Bechara |`[HS]`|[[imdb 9]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
@@ -30,13 +38,8 @@ She's Out of My League
 Definitely, May be
 Valentine's Day 
 class '83
-
-
 {% endtab %}
 
-
-## `2020`
-{% tabs %}
 {% tab title="July" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
