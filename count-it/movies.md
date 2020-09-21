@@ -24,6 +24,9 @@ description: A List of Movies watched per month on different media
 |---|---|---|---|---|---|
 |1.| Dil Bechara |`[HS]`|[[imdb 9]](https://www.imdb.com/title/tt8110330/)|`[4/5]`|`[2020]`|
 Tamasha
+The social dilema
+sadak 2
+Dolly or kittu ke chamak te sitare 
 {% endtab %}
 
 {% tab title="August" %}
