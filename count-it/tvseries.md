@@ -14,11 +14,20 @@ description: A List of TV series watched per month on different media
 | 2020 | March | 25 h 0 m | 4 | 4 | 27 | 40 Mins |
 | 2020 | April | 41 h 0 m | 4 | 4 | 66 | 40 Mins |
 | 2020 | May | 39 h 36 m | 4 | 5 | 61 | 39 Mins |
+| 2020 | June | 0 h 0 m | 0 | 0 | 0 | 0 Mins |
+| 2020 | July | 0 h 0 m | 0 | 0 | 0 | 0 Mins |
+| 2020 | August | 0 h 0 m | 0 | 0 | 0 | 0 Mins |
+| 2020 | September | 0 h 0 m | 0 | 0 | 0 | 0 Mins |
 
 
 ## `Monthly  Chart`
 
 Too Hot To Handle
+
+### September 2020
+Leeds united all or nothing AZ
+
+### August 2020
 
 ### July 2020
 | 1. | Selling Sunset | `[NF]` | [\[imdb 5.8\]](https://www.imdb.com/title/tt9817298/) | `[3/5]` | `[2020]` | `[S:3 E:9]` | `[Duration: 30 min]` |
