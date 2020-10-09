@@ -15,9 +15,19 @@ description: A List of Movies watched per month on different media
 | 2020  | July | 23 hr 48 min  | 13 |
 | 2020  | August | -  | - |
 | 2020  | September | -  | - |
+| 2020  | October | -  | - |
 | 2020  | Total | 4 d 10 hr 10 min  | 71 |
 
 ## `2020`
+
+{% tabs %}
+{% tab title="October" %}
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+Hunger Games
+{% endtab %}
+
+
 {% tabs %}
 {% tab title="September" %}
 |   |   |   |   |   |   |
