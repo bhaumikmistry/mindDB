@@ -22,12 +22,17 @@ description: A List of TV series watched per month on different media
 
 ## `Monthly  Chart`
 
-Too Hot To Handle
+
+### October 2020
+Emily in Paris
+Bad boy Billionaires
 
 ### September 2020
 Leeds united all or nothing AZ
+The Social Dilemma
 
 ### August 2020
+The Speed Cubers
 
 ### July 2020
 | 1. | Selling Sunset | `[NF]` | [\[imdb 5.8\]](https://www.imdb.com/title/tt9817298/) | `[3/5]` | `[2020]` | `[S:3 E:9]` | `[Duration: 30 min]` |
