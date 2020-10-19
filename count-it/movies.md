@@ -25,8 +25,10 @@ description: A List of Movies watched per month on different media
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 Hunger Games
+serious men 
+Quantum of Solace
+Copenhagen
 {% endtab %}
-
 
 {% tabs %}
 {% tab title="September" %}
@@ -36,6 +38,7 @@ Hunger Games
 Tamasha
 The social dilema
 sadak 2
+the wedding season
 Dolly or kittu ke chamak te sitare 
 {% endtab %}
 
