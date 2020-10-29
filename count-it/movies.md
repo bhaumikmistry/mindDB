@@ -28,6 +28,8 @@ Hunger Games
 serious men 
 Quantum of Solace
 Copenhagen
+Holidate
+Zindagi Na Milegi Dubara
 {% endtab %}
 
 {% tabs %}
