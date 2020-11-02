@@ -22,10 +22,13 @@ description: A List of TV series watched per month on different media
 
 ## `Monthly  Chart`
 
+### November 2020
+Queen's Gambit
 
 ### October 2020
 Emily in Paris
 Bad boy Billionaires
+Scam 1992
 
 ### September 2020
 Leeds united all or nothing AZ
