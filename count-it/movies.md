@@ -21,15 +21,24 @@ description: A List of Movies watched per month on different media
 ## `2020`
 
 {% tabs %}
+{% tab title="November" %}
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+Snowden
+{% endtab %}
+
+
+{% tabs %}
 {% tab title="October" %}
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-Hunger Games
+Hunger Games 1 2 3
 serious men 
 Quantum of Solace
 Copenhagen
 Holidate
 Zindagi Na Milegi Dubara
+
 {% endtab %}
 
 {% tabs %}
