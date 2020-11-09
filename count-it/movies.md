@@ -25,8 +25,9 @@ description: A List of Movies watched per month on different media
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 Snowden
+Midnight in Magnolia 
+Love Guaranteed 
 {% endtab %}
-
 
 {% tabs %}
 {% tab title="October" %}
