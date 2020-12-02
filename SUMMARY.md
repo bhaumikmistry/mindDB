@@ -50,6 +50,7 @@
     * [K2-18b](science/space/k2-18b.md)
     * [Parsec](science/space/parsec.md)
 * [Software](software/README.md)
+  * [Advent of Code](software/aoc/README.md)
   * [Android](software/android/README.md)
     * [Icons](software/android/icons.md)
     * [Snippets](software/android/snippets.md)
