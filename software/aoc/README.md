@@ -62,6 +62,11 @@ print(program_2(data))
 {% tab title="Day 1" %}
 ### 12-01-2020 
 ```pyhton
+def open_file(file_path):
+    with open(file_path, 'r') as f:
+        entries = [int(entry) for entry in f.readlines()]
+        return entries
+
 def program_1(data):
     for num_a in data:
         for num_b in data:
