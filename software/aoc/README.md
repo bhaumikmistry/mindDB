@@ -3,10 +3,43 @@ description: Advent of Code at https://adventofcode.com/
 ---
 # Advent of Code
 
-
 {% tabs %}
+{% tab title="Day 3" %}
+#### 12-03-2020 
+```
+def open_file(file_path):
+    with open(file_path, 'r') as f:
+        entries = [list(entry.split('\n')[0]) for entry in f.readlines()]
+        return entries
+
+
+def program_1(data, move_right, move_down):
+    length = len(data)
+    width = len(data[0])
+    tree_count = 0
+    w = 0
+    l = 0
+    while l < length:
+        w += move_right
+        l += move_down
+        w = w - width if w >= width else w
+        if l >= length:
+            break
+        if data[l][w] == "#":
+            tree_count += 1
+    return tree_count
+
+
+data = open_file("input.txt")
+result = 1
+for x, y in [(1, 1), (3, 1), (5, 1), (7, 1), (1, 2)]:
+    result *= program_1(data, x, y)
+print(result)
+```
+{% endtab %}
+
 {% tab title="Day 2" %}
-### 12-02-2020 
+#### 12-02-2020 
 ```pyhton
 def open_file(file_path):
     with open(file_path, 'r') as f:
@@ -58,7 +91,7 @@ print(program_2(data))
 {% endtab %}
 
 {% tab title="Day 1" %}
-### 12-01-2020 
+#### 12-01-2020 
 ```pyhton
 def open_file(file_path):
     with open(file_path, 'r') as f:
