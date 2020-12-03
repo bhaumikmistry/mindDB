@@ -56,9 +56,7 @@ print(program_1(data))
 print(program_2(data))
 ```
 {% endtab %}
-{% endtabs %}
 
-{% tabs %}
 {% tab title="Day 1" %}
 ### 12-01-2020 
 ```pyhton
