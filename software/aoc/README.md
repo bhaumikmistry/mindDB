@@ -100,7 +100,6 @@ for y in seat_list[1:-1]:
 {% endtab %}
 
 {% tab title="Day 4" %}
-#### 12-04-2020
 ```
 def open_file(file_path):
     with open(file_path, 'r') as f:
@@ -195,7 +194,6 @@ program_1(data)
 {% endtab %}
 
 {% tab title="Day 3" %}
-#### 12-03-2020 
 ```
 def open_file(file_path):
     with open(file_path, 'r') as f:
@@ -229,7 +227,6 @@ print(result)
 {% endtab %}
 
 {% tab title="Day 2" %}
-#### 12-02-2020 
 ```pyhton
 def open_file(file_path):
     with open(file_path, 'r') as f:
@@ -281,7 +278,6 @@ print(program_2(data))
 {% endtab %}
 
 {% tab title="Day 1" %}
-#### 12-01-2020 
 ```pyhton
 def open_file(file_path):
     with open(file_path, 'r') as f:
