@@ -5,9 +5,6 @@ description: Advent of Code at https://adventofcode.com/
 
 
 {% tabs %}
-{% tab title="2020" %}
-
-{% tabs %}
 {% tab title="Day 6" %}
 ```python
 def open_file(file_path):
@@ -304,8 +301,5 @@ def program_2(data):
 print(program_1(data))
 print(program_2(data))
 ```
-{% endtab %}
-{% endtabs %}
-
 {% endtab %}
 {% endtabs %}
