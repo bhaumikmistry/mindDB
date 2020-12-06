@@ -5,7 +5,101 @@ description: Advent of Code at https://adventofcode.com/
 
 
 {% tabs %}
-{% tab title="Day 3" %}
+
+{% tab title="Day 6" %}
+```python
+def open_file(file_path):
+    with open(file_path, 'r') as f:
+        entries = [entry.split('\n')[0] for entry in f.readlines()]
+        return entries
+
+
+def program_2(string, people):
+    correct = 0
+    for char in set(string):
+        if string.count(char) == people:
+            correct += 1
+    return correct
+
+
+def program_1(data):
+    string = ""
+    people = 0
+    result_1 = 0
+    result_2 = 0
+    for d in data:
+        if d is "":
+            result_1 += len(set(string))
+            temp_2 = program_2(string, people)
+            result_2 += temp_2
+            people = 0
+            string = ""
+            continue
+        string += d
+        people += 1
+    result_1 += len(set(string))
+    temp_2 = program_2(string, people)
+    result_2 += temp_2
+    print(result_1)
+    print(result_2)
+
+data = open_file("input.txt")
+program_1(data)
+```
+{% endtab %}
+
+{% tab title="Day 5" %}
+```python
+import math
+
+
+def open_file(file_path):
+    with open(file_path, 'r') as f:
+        entries = [entry.split('\n')[0] for entry in f.readlines()]
+        return entries
+
+
+def validate(letter, lower, upper):
+    if letter in ['F', 'L']:
+        return lower, lower+int(math.ceil((upper-lower)/2))
+    else:
+        return lower+int(math.floor(1+(upper - lower)/2)), upper
+
+
+def program_1(data):
+    lower = 0
+    upper = 127
+    for letter in data[:7]:
+        lower, upper = validate(letter, lower, upper)
+    row = lower
+    lower = 0
+    upper = 7
+    for letter in data[7:]:
+        lower, upper = validate(letter, lower, upper)
+    column = lower
+    return row * 8 + column
+
+data = open_file("input.txt")
+seat_id = 0
+seat_list = []
+for string in data:
+    id = program_1(string)
+    seat_list.append(id)
+    if id > seat_id:
+        seat_id = id
+print("result_1", seat_id)
+seat_list.sort()
+x = seat_list[0]
+for y in seat_list[1:-1]:
+    if x+1 == y:
+        x = y
+    else:
+        print("result", x+1)
+        break
+```
+{% endtab %}
+
+{% tab title="Day 4" %}
 #### 12-04-2020
 ```
 def open_file(file_path):
@@ -99,7 +193,6 @@ data = open_file("input.txt")
 program_1(data)
 ```
 {% endtab %}
-
 
 {% tab title="Day 3" %}
 #### 12-03-2020 
