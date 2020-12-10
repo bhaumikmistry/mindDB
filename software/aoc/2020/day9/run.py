@@ -31,11 +31,6 @@ def program_2(data):
             return sorted(result)[0] + sorted(result)[-1]
 
 
-
-
-
-
-
 def program_1(index,data):
     start = 0
     end = index
