@@ -78,22 +78,23 @@ def get_tickets(data):
 
 
 def get_cat_list(cat_dict, ticket_vec):
-    count = [list(cat_dict.keys())]* len(ticket_vec[0])
+    count = [[]]* len(ticket_vec[0])
     print("start", count)
-    for w in range(len(ticket_vec[0])):
-        for l in range(len(ticket_vec)):
+    for l in range(len(ticket_vec[0][0])):
+        for w in range(len(ticket_vec)):
             cat_mask = count[w]
             cat_list_for_val = []
             for name, numbers in cat_dict.items():
                 if ticket_vec[l][w] in numbers:
                     cat_list_for_val.append(name)
-            count[w] = list(set(cat_mask).intersection(cat_list_for_val))
-        if len(count[w]) == 1:
-            intersection = count[w][0]
-            for keys in count:
-                if intersection in keys:
-                    keys.remove(intersection)
-            count[w] = [intersection]
+            # count[w] = list(set(cat_mask).intersection(cat_list_for_val))
+            count[w] = cat_list_for_val
+        # if len(count[w]) == 1:
+        #     intersection = count[w][0]
+        #     for keys in count:
+        #         if intersection in keys:
+        #             keys.remove(intersection)
+        #     count[w] = [intersection]
         print(f'at {w} of {len(ticket_vec[0])}')
     print(count)
     return count
@@ -113,12 +114,7 @@ def main():
     my_ticket = [157,73,79,191,113,59,109,61,103,101,67,193,97,179,107,89,53,71,181,83]
     print(len(my_ticket),my_ticket)
     for index, cat in enumerate(cat_list):
-        temp = []
-        for c in cat:
-            if c.startswith("departure"):
-                temp.append(c)
-        cat_list[index] = temp
-        print(temp)
+        print(index, cat)
     
 
     # for index, cat in enumerate(cat_list):
