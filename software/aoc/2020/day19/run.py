@@ -28,21 +28,26 @@ def get_rule_dict(rule):
 def get_valid_list(r_dict, key, prefix):
     data = prefix    
     d_l = []
-    print("stack start", r_dict, key, prefix)
+    # print("stack start", r_dict, key, prefix)
     for l in r_dict[key]:
+        # print("___Change of l___", data, l)
+        data = prefix
         for entry in l:
             # print(key, r_dict[key], l, entry, d_l, data)
             if entry in list(r_dict.keys()):
-                # print(key, r_dict[key], l, entry, d_l, data)
-                d_l.append(get_valid_list(r_dict, entry, data))
+                # print("->>",key, r_dict[key], l, entry, d_l, data)
+                temp_data, temp_d_l = get_valid_list(r_dict, entry, data)
+                data = temp_data
+                # print("->>>> ", data, temp_data, temp_d_l, d_l)
             else:
                 # print(key, r_dict[key], l, entry, d_l, data)
                 data = data+entry
-                print("d+e", data, entry)
-                d_l.append(data)
-    print("DL", len(d_l), d_l)
-    return d_l
-
+        # print(data, d_l)
+        d_l.append(data)
+        # print("d+e", data, entry)
+        # data = ""
+    # print("DL", len(d_l), d_l)
+    return data, d_l
 
 
 def program_1(data):
@@ -53,7 +58,21 @@ def program_1(data):
     print(validation)
     rule_dict = get_rule_dict(rule)
     print(rule_dict)
-    print(get_valid_list(rule_dict, '0', ""))
+    print(get_valid_list(rule_dict, '3', ""))
+    print(get_valid_list(rule_dict, '2', ""))
+    for l in [['2','3'], ['3','2']]:
+        mix = []
+        for i in l:
+            print(i)
+            mix_new = []
+            if mix:
+                print(mix)
+                for x in mix:
+                    mix_new.append(get_valid_list(rule_dict, i, x)[1])
+                print(mix_new)
+            mix.extend(get_valid_list(rule_dict, i, "")[1])
+        print(mix)
+
 
 def main():
     ip = open_file("input.txt")
