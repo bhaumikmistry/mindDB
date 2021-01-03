@@ -5,7 +5,6 @@
 * [Bhaumik Mistry](bhaumikmistry.md)
 * [Arsenal](arsenal/README.md)
   * [Games 2019 2020](arsenal/games-2019-2020.md)
-  * [Games 2020 2021](arsenal/games-2020-2021.md)
   * [Fan Page Mesut Özil](arsenal/Fan-Page-Mesut-Özil.md)
   * [Fan Page Pierre-Emerick Aubameyang](arsenal/Fan-Page-Pierre-Emerick-Aubameyang.md)  
 * [Count-It](count-it/README.md)
