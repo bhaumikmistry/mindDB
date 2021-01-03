@@ -13,6 +13,4 @@ Arsène Wenger was the longest-serving manager and won the most trophies. He won
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emirates_Stadium_-_East_stand_Club_Level.jpg/1024px-Emirates_Stadium_-_East_stand_Club_Level.jpg)
 
 #### - [Games](games-2019-2020.md)
-#### - [Fan Page Mesut Özil](Fan-Page-Mesut-Özil.md)
-#### - [Fan Page Pierre-Emerick Aubameyang](Fan-Page-Pierre-Emerick-Aubameyang.md)  
 
