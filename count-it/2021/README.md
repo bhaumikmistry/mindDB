@@ -12,4 +12,8 @@ description: A page to keep a virtual count of random things in 2021
 
 ### TV Series
 - TBD
+
+### PS4 Games
+- COD Warzone
+- FIFA 21
 ---
