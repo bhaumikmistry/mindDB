@@ -14,9 +14,7 @@ description: A active list of tabs to track the books I am reading.
 {% tab title="Present" %}
 | Sr. | Books | By | Released |
 | :--- | :--- | :--- | :--- |
-| B0035 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
-| B0036 | 📖 The Secret History | Donna Tartt | 1992 |
-| B0037 | 📖 1984 | George orwell | 1948 |
+| B0034 | 📖 The God Of Small Things | Arundhati Roy | 1997 |
 {% endtab %}
 
 {% tab title="Future" %}
@@ -35,8 +33,15 @@ description: A active list of tabs to track the books I am reading.
 | B0031 | 📖 The Golden Age | Michal Ajvaz | 2010 |
 | B0032 | 📖 Kiss The Girls | James Patterson | 1995 |
 | B0033 | 📖 Digital Fortress | Dan Brown | 1998 |
-| B0034 | 📖 The God Of Small Things | Arundhati Roy | 1997 |
+| B0035 | 📖 Eleven Gods and a Billion Indians | Boria Majumdar | 2018 |
+| B0036 | 📖 The Secret History | Donna Tartt | 1992 |
+| B0037 | 📖 1984 | George orwell | 1948 |
+{% endtab %}
 
+{% tab title="in 2021" %}
+| Sr. | Books | By | Released |
+| :--- | :--- | :--- | :--- |
+| - | 📖 - | - | - |
 {% endtab %}
 
 {% tab title="in 2020" %}
