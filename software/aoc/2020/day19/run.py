@@ -60,19 +60,23 @@ def program_1(data):
     print(rule_dict)
     print(get_valid_list(rule_dict, '3', ""))
     print(get_valid_list(rule_dict, '2', ""))
-    for l in [['2','3'], ['3','2']]:
-        mix = []
+
+    final = []
+    mix = []
+    for l in [['4'],['2','3'], ['3','2']]:
         for i in l:
             print(i)
             mix_new = []
             if mix:
                 print(mix)
-                for x in mix:
+                while mix:
+                    x = mix.pop()
                     mix_new.append(get_valid_list(rule_dict, i, x)[1])
-                print(mix_new)
+                print("mix_new", mix_new)
             mix.extend(get_valid_list(rule_dict, i, "")[1])
+        final.extend(mix_new)
         print(mix)
-
+    print(final)
 
 def main():
     ip = open_file("input.txt")
