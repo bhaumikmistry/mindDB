@@ -8,6 +8,8 @@ description: A page to keep a virtual count of random things in 2021
 - EPL 1.2.21 Arsenal vs West Brom W 4 - 0
 - NBA 1.3.21 Celtics vs Detroit Pistons W 122 - 120
 - NBA 1.4.21 Celtics vs Toronto Raptors W 114 - 126
+- NBA 1.6.21 Celtics vs Miami Heat W 107 - 105 
+- NBA 1.8.21 Celtics vs Washington Wizards W 116 -107
 
 ### Movies
 - TBD
