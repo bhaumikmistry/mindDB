@@ -3,6 +3,7 @@
 * [MindDB](README.md)
 * [About Me](aboutme.md)
 * [Bhaumik Mistry](bhaumikmistry.md)
+* [Projects](projects.md)
 * [Arsenal](arsenal/README.md)
   * [Games 2019 2020](arsenal/games-2019-2020.md)
 * [Count-It](count-it/README.md)

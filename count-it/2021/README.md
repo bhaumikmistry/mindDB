@@ -10,7 +10,7 @@ description: A page to keep a virtual count of random things in 2021
 - NBA 1.4.21 Celtics vs Toronto Raptors W 114 - 126
 - NBA 1.6.21 Celtics vs Miami Heat W 107 - 105 
 - NBA 1.8.21 Celtics vs Washington Wizards W 116 -107
-
+- FAC 1.9.21 Arsenal vs New Castle 
 ### Movies
 - TBD
 
