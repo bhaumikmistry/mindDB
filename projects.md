@@ -1,12 +1,14 @@
 # Project status
 
-There are many projects we need track:
+Projects to track.
 
 ### BM Web site
 | [Codbase](https://github.com/bhaumikmistry/bhaumikmistry.github.io) [Webpage](https://bhaumikmistry.github.io/)
+- [] Update new job info
 
 ### Receipts-to-the-moon (Abandoned)
 |[Codebase](https://github.com/bhaumikmistry/receipts-to-the-moon) [Webpage](https://bhaumikmistry.github.io/receipts-to-the-moon/) 
+- [] Add new Receipts
 
 ### Kuriku (Abandoned)
 | [Codebase](https://github.com/bhaumikmistry/kurikku)
@@ -16,9 +18,11 @@ There are many projects we need track:
 
 ### BwedsJ
 | [Codebase](https://github.com/bhaumikmistry/bwedsj) [Webpage](https://bhaumikmistry.github.io/bwedsj/)
+- [] Update baby update
 
 ### Word-o-Clock
-| [Codebase](https://github.com/bhaumikmistry/Word-Clock) []()
+| [Codebase](https://github.com/bhaumikmistry/Word-Clock) 
+- [] Add a single point api to fetch time in word
 
 ### National Park
 | [Codebase](https://github.com/bhaumikmistry/national-parks) [Webpage](https://bhaumikmistry.github.io/national-parks/)
