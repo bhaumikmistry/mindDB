@@ -37,5 +37,5 @@ Projects to track.
 | [Webpage](https://github.com/bhaumikmistry/work-from-home-desk) [Webpage](https://bhaumikmistry.github.io/work-from-home-desk/)
 - [] add more things
 
-### time.in.word.is
+### time.in.word.is (complete)
 | [Codebase](https://github.com/bhaumikmistry/time.in.word.is) [Webpage](https://bhaumikmistry.github.io/time.in.word.is/)
